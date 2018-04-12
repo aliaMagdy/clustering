@@ -1,0 +1,5198 @@
+@relation TweetFile
+
+@attribute text string
+@attribute s_class {network,customer_service,mobile_data,financial,sales,phone_services,signal,other,internet}
+
+@data
+'What you need to launch an #employeeadvocacy program, by @vodafoneUK &amp; @Dynamic_Signal in the next #DySiWebinar… https://t.co/OfWb5eYjfd',?
+'@VodafoneUKhelp @VodafoneUK my mate on @O2 gets 4g+ in belfast but on vodafone its only 4g and even @EE its lte how come you are so behind?',?
+'PARTNER: @VodafoneUK looks at the five trends helping to drive digital change: https://t.co/iFb0vitL2W https://t.co/wD2Ec3XHkX',?
+'@VodafoneUK They were supposed to call me yesterdays at 1130am with a refund offer however that call finally arriv… https://t.co/UVW5VomxcY',?
+'@EbolaPhone @VodafoneUK It takes half an hour for them to understand the problem, then they say they either cant h… https://t.co/O2cdS5Cei1',?
+'@VodafoneUK I was told on Saturday that the router that was delivered on Friday (the wrong router btw) would be res… https://t.co/y3591ZQZ2H',?
+'@VodafoneUK @headcornweather A postcode? Its almost the whole of Headcorn village. Signal massively vary moving ju… https://t.co/NsqQ9kn8fj',?
+'@VodafoneUK my sister is getting nowhere with Live Chats &amp; Telephone calls with your company. Pls provide an email she can send evidence',?
+'Well done team @MECUK - congrats on the two @pm_awards for brilliant work for @VodafoneUK #IPMA17 https://t.co/HH4xkpXZzC',?
+'RT @VodafoneUK: Big 8GB data, unltd mins &amp; texts with our data-packed SIMs. The future is exciting. Ready? https://t.co/ACMMGHQ7xD',?
+'@VodafoneUK the advisor didnt agree with my request and didnt seem to think I should #saysitall',?
+'@VodafoneUK has anybody from Voda ever tried calling or dealing with the customer service dep to get a feeling of how your customers feel',?
+'Tried looking up what to do and the website wont tell me, just says searching constantly @VodafoneUK',?
+'@VodafoneUK Are there mobile issues in Manchester area?',?
+'@VodafoneUK Helpful as ever. Do you use a quality model? How about some empathy? Try to help?',?
+'I’m Considering making a switch from @EE to @VodafoneUK when the new #iPhoneX comes out.',?
+'RT @VodafoneUK: The future is exciting. Ready? https://t.co/bu3wZiZ9kN',?
+'@VodafoneIN @VodafoneIN @Vodacom @VodafoneUK',?
+'@VodafoneUK have upgraded me without my permission. I suggest you call me ASAP. If unresolved I’ll be contacting the @financialombuds',?
+'RT @BumperGraham: Come on @VodafoneUK this ain’t acceptable https://t.co/3HPfS97lkt',?
+'@BumperGraham @VodafoneUK Is it possible to use the word “dongle” in anger?',?
+'RT @BumperGraham: Come on @VodafoneUK this ain’t acceptable https://t.co/3HPfS97lkt',?
+'Still no response from @VodafoneUK what a joke! Im very disappointed... #a net work to depend on...NOT TRUE',?
+'Updated my iPhone and now no service any ideas please @VodafoneUK??',?
+'@VodafoneUK no wonder the online chat said it wouldn’t cost me anything anyidea off when this will become available https://t.co/08feWCRvd8',?
+'@VodafoneUK ***** This is all i see with your crappy network ! I urge people never to use this network ! **** https://t.co/OPXBu0nWvj',?
+'RT @lperich: @VodafoneUK why cant you cover the cost of roaming like some other networks? Always seem to take from loyal customers. #9Year…',?
+'@VodafoneUK I buy fixed £25pm contract. Charged £265! I complain. V refund my money, then start charging again with lawyer threats HELP!!!!',?
+'@VodafoneUK https://t.co/NjKTv2w2Dn',?
+'@VodafoneUK I have slid into your DMs https://t.co/Dptkj8njAu',?
+'@VodafoneUK Which bit of not interested did you not understand?',?
+'@VodafoneUK explain right now why you’ve taken £765.04 out of my acct! I want to talk to a human and I want a refund TODAY. PM me for no.',?
+'@VodafoneUK Get better? SIM doesnt have bundle advertised, number move three dates none met, contact to helpdesk 5… https://t.co/VcDgyXwgW1',?
+'@marklbegbie @Insidermag @KPN @VodafoneUK @TMobile Can be but sim cards and data package are included in the price… https://t.co/91kE9YNCWI',?
+'@VodafoneUK Trying to upgrade &amp; stay with vodafone like i have done for years but I am being told that there is no… https://t.co/usyOBrPHti',?
+'@VodafoneUK disgusted by your phone call yesterday. Your staff need to get their facts right before offering “huge discounts”. DISAPPOINTED',?
+'RT @longrunworks: Cross-sector collaboration crucial to embed technological innovations, says @VodafoneUK #SmartCities https://t.co/Epq2Wlc…',?
+'@VodafoneUK I have tried but i am not a customer anymore - i will try again tho',?
+'@VodafoneUK If you have a contract with someone (7+ years now) you can’t just lie and say you warned us about price… https://t.co/ux2Stk0Crc',?
+'@vincenthartman @Insidermag @KPN @VodafoneUK @TMobile Thats more expensive ($ and W hrs) than #LPWAN. Is LoRaWAN still an option in the UK?',?
+'@VodafoneUK box appears but when I enter My Vodafone password/username it’s not accepted-any ideas? Apparently I ge… https://t.co/rhOuGaSyhu',?
+'@ShazzlarK @VodafoneUK Hi, sorry to hear this, we havent had any reported issues with the app, can you call the team on 03456020121 ^AW',?
+'@Mrs_Rawler @TalkUKTelecoms @VodafoneUK I’ve had the same problem with Vodafone customer service and sales, pay my… https://t.co/FVemfMmjYh',?
+'RT @JCPinManchester: Customer Service Advisers @VodafoneUKLife  @VodafoneUK in Wythenshawe #Manchester #Jobs See:… ',?
+'@VodafoneUK really disappointed no call as promised for upgrade deal offered yesterday to expensive you are not looking after loyal customer',?
+'@VodafoneUK Dont play stupid. It gets boring quickly. Vodafone was down yesterday. It messed up my evening. Refund me',?
+'@VodafoneUK charged me £5 for one text when I was in the US!  #ripoffbritain',?
+'@VodafoneUKhelp @BT @VodafoneUK @VodafoneUKhelp no response from u &amp; when I’ve called ur helpdesk the promised call… https://t.co/886ZrLjOA0',?
+'@VodafoneUK so appaz i missed my lucky outbound random call offering me an early sim only deal.my wife didnt. im feeling pretty peed off',?
+'As ever @VodafoneUK customer support is terrible. All I wanted was an answer to a simple question #useless #vodafone #uselessvodafone',?
+'@VodafoneUK how long does it take to get through to customer services? 30mins so far 😥',?
+'@AIRTEL_KE @VodafoneUK I dont know which because my phone/SIM code isnt working. Kindly help.',?
+'RT @StopFundingHate: Todays Sun advertisers include: @Plusnet @bt_uk @TalkTalk @TUIGroup @virginmedia @VodafoneUK @Debenhams @SkyUK @Smart…',?
+'@VodafoneUK We have continual problems with broadband. Drops all time and no more than 5 connections Lacklustre cus… https://t.co/nvyD4UeBcI',?
+'RT @VodafoneUK: What will the future hold? Discover how your world could change over the next 20 years. Ready?  https://t.co/XZejh1sAq2 htt…',?
+'@adarkelimited @VodafoneUK Dreadful service',?
+'@VodafoneUK Dmed you',?
+'The @O2 upgrade staff are useless 😩 Best network to go with? @VodafoneUK  @EE @orange',?
+'@VodafoneUK just upgraded with you and WiFi on the tube is now asking for a username and password. Any ideas what that might be?',?
+'.@VodafoneUK I have had no response 4 hours after being asked to send a direct message to this account.',?
+'@VodafoneUK Thanks Kirsty, still no luck 😡 my account is not set up!',?
+'@VodafoneUK Sick of vodafone calling me 5-6 times a day. If someone constantly rejects a call, it means they dont… https://t.co/ybKePOQ27T',?
+'Service @VodafoneUK Dumfries Store the day was spot on 👌',?
+'@VodafoneUK Which number, the one I’m waiting to be transferred in or the original Vodafone one?!',?
+'@VodafoneEgypt @VodafoneUK Vodaegypt#worst_experience',?
+'@VodafoneUK just put my phone in for repair, and there wasnt a loan phone available. Not a great start. What am I supposed to do?',?
+'@VodafoneUK im kind of regretting wanting to leave @O2 you still not transferred my acc since fri 2calls later still nada #CustomerService',?
+'@VodafoneUK is this your official position? https://t.co/hqdzAmUYGI',?
+'@VodafoneUK No, I’ve given Vodafone a pac code to transfer from o2 but you don’t seem capable of doing it! I’m curr… https://t.co/u2ifP0gvrx',?
+'@just_rochxx @VodafoneUK Coz theyre a bunch of useless **** .. weve opened up an offcom complaint as its been like this for 3 months!',?
+'RT @RLCGlobalGroup: One for you @SimoneRoche and your upcoming event @VodafoneUK',?
+'Panelists on stage for Cloud &amp; Carrier collaborations debate: @BroadGroup_Intl @digitalrealty @EdgeConneX… https://t.co/ru8wDxmV5k',?
+'Enjoy 2GB of data on a 12 month plan at @VodafoneUK for the reduced price of £16.00 a month https://t.co/c2mjiRCi4H',?
+'Enjoy 2GB of data on a 12 month plan at @VodafoneUK for the reduced price of £16.00 a month https://t.co/lLV0ep4WGS',?
+'Enjoy 2GB of data on a 12 month plan at @VodafoneUK for the reduced price of £16.00 a month https://t.co/VHvuFqPwLn',?
+'90 minutes on the line to customer relations. Still no resolution @VodafoneUK',?
+'@VodafoneUK Lol this was the joke. I asked to cancel &amp; before I knew it I was looking into monthly costs for an iPad Pro.',?
+'@VodafoneUK Ive just spent 45min on the phone to customer services let alone another god knows how long to live ch… https://t.co/iu2Lkr8AO3',?
+'@VodafoneUK Already rang vodaphone and all I got was an apology for them messing up AGAIN and now I have to wait an… https://t.co/wtskcqyHUR',?
+'@VodafoneUK Sweety from your webchat team literary saved the day ♡♡',?
+'@VodafoneUK Yeah you could start by reading the teeet correctly.  It’s now gone 4pm and the transfer still hasn’t happened?',?
+'Transformación digital? Gracias a @ComexiGroup y @VodafoneUK https://t.co/nrG5CPMkPX',?
+'One for you @SimoneRoche and your upcoming event @VodafoneUK',?
+'@VodafoneUK cheers',?
+'@jakepjohnson @VodafoneUK Where does it say an age limit? (Actually looks like something I would use if Vodafone wasn’t so terrible in BS1)',?
+'@VodafoneIN @vodafoneNZ @VodafoneUK @vodafone What Happened since 5 days u sending mail while asking u r saying me… https://t.co/kMFLsNbjVX',?
+'Hey @VodafoneUK please stop sending texts about the new iOS/settings. Yes, I updated it. I dont need 29 of the same texts since 9am today.',?
+'@VodafoneUK Three weeks is scandalous! If I was coming in to open a contract you would have the phone in my hand be… https://t.co/jkQTKDnDyV',?
+'RT @IssieK: Hi @VodafoneUK Broadband is not working in Newbury, the home of #vodafone. Can you advise as need to keep our business running.…',?
+'@VodafoneUK why do you send a genetric repsone. it is so annoying! I have told you that is acrosss the town and not… https://t.co/zD9SJnKXsD',?
+'Gosh I had been told @VodafoneUK were bad but had no idea! Cancelling after one month.Thankful I had a rolling contract. Take note friends!',?
+'RT @VodafoneUK: Super-boost your phone. Get a massive 40GB 4G UK data. The future is exciting. Ready? https://t.co/WjdFz3jovb',?
+'@VodafoneUK 2hrs 11 agents and still couldn’t help! The most appalling customer service team for any uk company #shockng',?
+'Beware of @VodafoneUK abnormal phone charges, a customer service team that are unable to help. 1 big tip for the day don’t join Vodafone!',?
+'@VodafoneUK I am awaiting a call back... to add to the 2hrs I have spent on the phone already today! #poorservice',?
+'@VodafoneUK have red sharer for 2 yrs.  All phones lcked bcse one usr used allwnce abroad.  RS invalid 4 roaming? Not been a problem before.',?
+'@VodafoneUK Charged £6 for NOT using a maritime network!!! I am LIVID. Appaling CS for new customer.',?
+'@VodafoneUK its like dealing with monkeys no sorry even monkeys have a level of intelligence',?
+'@VodafoneUK sent DM as hour ago but no response. Still nothing on website about a problem but lots of people have n… https://t.co/ABOADDNxjV',?
+'@VodafoneUK hi is 01709 917454 one of your numbers? #salescalls #spamcalls #vodafone',?
+'@VodafoneUK Ta',?
+'@VodafoneUK just done the 7 questions',?
+'@VodafoneUK I keep getting calls from you but when I answer there’s no one there.... any chance someone could either speak or stop please?!',?
+'Absolutely appalling service from @VodafoneUK waiting for a refund for 5 weeks, been paying a cancelled contract for over a year #poor',?
+'@VodafoneUK Contract with @CPWTweets taken out in August for £34 a month with entertainment package (Spotify), but… https://t.co/QjhQeGs1MG',?
+'@VodafoneUK Sent offsite for higher level repair',?
+'@VodafoneUK thats where I waited for over an hour yesterday though... Im not going to waste another hour',?
+'@VodafoneUK literally the worst customer service ever, why is it so hard to get an upgrade!!!',?
+'@VodafoneUK Hi John, I have send a DM with the information requested over an hour ago?',?
+'@VodafoneUK Your app doesnt seem to be working. Its asking me to disconnect from WifI and register again? #glitch',?
+'UKs Top 7: @VodafoneUK wins in #Glasgow and #Liverpool due to strong data results https://t.co/oYBPe4XuCz… https://t.co/djVUQuVFrp',?
+'@VodafoneUK hi john, can someone either call me back after 4 or check im getting my refund? thanks!',?
+'RT @CSWnews: PARTNER: @VodafoneUK has identified 5 trends that will drive digital government. Download the full report:… ',?
+'RT @JaihoonSadiri1: In 18 months, @vodafoneUKs EA program earned over 30M impressions. Learn how in @Dynamic_Signals next… ',?
+'@LewisDrynda @VodafoneUK youre not even with Vodaphone?',?
+'@VodafoneUK Still hanging on.2 hours now. After an issue lasting 13 months, this is ridiculous',?
+'I shall still be asking @VodafoneUK for the recordings of the conversations with there staff members which were not… https://t.co/4uCSug971G',?
+'@VodafoneUK Every time I have ever updated my phone/contract you always get the first bills wrong!! Youre a bunch of thieves!!!',?
+'@VodafoneUK Four people, three conversations and assurance it would be fixed, yet my current contract still doesn’t show in my Vodafone dash',?
+'@VodafoneUK you use the BT network right? So I would get the same performance but no line cost? #veryTempting',?
+'@VodafoneUK Sent you a DM',?
+'@Kingdanejohnson @VodafoneUK Stick with Samsung just get s7 not the edge',?
+'@VodafoneUK For what reason? Didn’t happen with @ThreeUK, and my contract with them was AFTER yours.',?
+'@VodafoneUK And theyve also over charged me when I havent used that phone on the contract for 3 months',?
+'@shaquillefran12 @VodafoneUK  https://t.co/3HzCYBmtrO',?
+'@VodafoneUK does free roaming mean I can text ppl in other countries for free or just if I go abroad I can text ppl in that country for free',?
+'so @VodafoneUK can effectivly steal my phone blacklisting even though i can prove its mine &amp; there nothing i can do about it. F...ing Sucks',?
+'RT @VodafoneUK: @billybeckett Hi Bill. Sorry you havent received the call back. Please give them a call on 191 so they can help with your…',?
+'@VodafoneUK No it isn’t. Not if my phone account is closed and I don’t owe you money. I want it closed. I am not a customer of yours.',?
+'@VodafoneUK Just me then? Doubtful! And to top it off the fibre 35 is down AGAIN this morning! Not great is it?? #SeriouslyPissedOffNow',?
+'@VodafoneUK I will be doing that only because staff member was rude doing that. A ok thank u 4 listen not just put… https://t.co/V7XQpFTgg7',?
+'PARTNER: @VodafoneUK knows what it takes to navigate the pressures of the public sector. Download the full report:… https://t.co/X3JhduBOE0',?
+'@VodafoneUK Yes please get it fixed. Call the store and help the poor girl who is getting NO support from her colleagues on the phone.',?
+'RT @JaqGallier: @VodafoneUK Thank you! I blame solar flares! ⚡️⚡️🔥🌞#solar flares #cmes',?
+'@VodafoneUK As far as I know Ive had the same pin for years. I listened to 2 voicemails last night (Without entering a pin) but not today.',?
+'@VodafoneUK I’m using internet explorer? Is that what you mean',?
+'@VodafoneUK you wont let me upgrade until March 2018.',?
+'@VodafoneUK Is there an issue with picking up voicemails while abroad?',?
+'@VodafoneUK Just when I thought you had redeemed themselves and fixed everything I get an email saying I have to pa… https://t.co/uJDonWXmWb',?
+'Ive being trying to cancel my contract for 3 days now. Put on hold for 3 hours&amp; no live chat option wth @VodafoneUK @VodafoneUKhelp @Ofcom',?
+'@VodafoneIN Even after 1 month my complaint was not solved, i hve tried 3 time for port. How can you do this? @VodafoneUK #Blouin_Artinfo',?
+'@VodafoneUK Thats running a 3yo operating system....',?
+'Released today: The P3 connect Mobile Benchmark UK 2017 ranking the 4 UK operators @EE @VodafoneUK @ThreeUK and @O2 https://t.co/8qPIo12qRm',?
+'@VodafoneUK No,I was put though to retentions and after an hour I got no agents available. I dont know how to get back to retentions dept',?
+'@VodafoneUK And not only that one of their agents seemed to be more interested in asking me what plans I had for the evening...',?
+'@VodafoneUK am I able to upgrade and preorder the iPhone x come Friday? #iPhoneX',?
+'@VodafoneUK You know your company is rubbish when even employees tell customers to use another supplier #awfulcompany #neveragain #timewaste',?
+'Our most reliable network @VodafoneUK says - RUBBISH - 3 bars not enough. #CallFailed sums it up. https://t.co/qTtwp6cRuV',?
+'10 minutes later, I am still online with @VodafoneUK trying to resolve their error concerning my unregistered number. #Ahhhhhhhhhhhhhhhhhh',?
+'@mikehall314 @VodafoneUK Do you have a bug in my car.  I listened to a very old episode (Colin old) where you talke… https://t.co/mU3NxFsDWE',?
+'Interestingly when I asked @VodafoneUK online live team about receiving compensation for the time and problems caused they were silent.',?
+'@VodafoneUK @OpenreachGB I agree with the letter that was sent to openreach chairman they aint working hard enough if they get money',?
+'@sammimarsh1 @VodafoneUK No I’ve been trying to ring you Sammi',?
+'@realDonaldTrump @IntlCrimCourt @jeffsessions @NobelPrize @PulitzerPrize @antonioguterres @mikewaltercgtn… https://t.co/L46HhQElSJ',?
+'#UnboxYourPhone Samsung Galaxy S8 Plus, from tariffs of £42 p/m @VodafoneUK via @EzMobiles https://t.co/RbUJd9J8k4 https://t.co/WR5lnTcdzt',?
+'@VodafoneUK @OpenreachGB then there do it if not there milk it for an example exchange only lines they aint working fast enough to put ppl',?
+'@vitt61 @VodafoneUK takes excess money from my bank. Delays in refunding me. when it finally does, it takes more out! plz explain',?
+'PBM UK 2017: @VodafoneUK ranks second, @ThreeUK comes in third and @O2 ranks last. https://t.co/oYBPe4XuCz… https://t.co/53BVtwhU9V',?
+'@VodafoneUK @Tommo87Lfc You Still owe me money. You refunded money due but then took more money out. thieves',?
+'@VodafoneUK 3/3: ...SERIOUS problems with the MIMO/CA rollout, specifically faulty mast/cell selection s/w. What is… https://t.co/meRR2YPYer',?
+'@Hallam999 @NicMcTwaty @VodafoneUK They knew https://t.co/7yVqSZOdD4',?
+'@VodafoneUK You didnt cancel my insurance for my old phone after i upgraded so ive been paying 2 sets.have been ref… https://t.co/shzwSHihiS',?
+'RT @kevinpaterson_: Just had this voicemail from @VodafoneUK greaaaaat customer service 🙃👍🏻 https://t.co/1t4LStYFdX',?
+'@sammimarsh1 @VodafoneUK Every f**king day',?
+'@VodafoneUK Chuckles thanks Jo, theyve fixed the earlier issues, nothing to do with my handset Network problems. n… https://t.co/JK8ySuI2Ic',?
+'@VodafoneIN no response received , most of the time n/work disappears # 9911111689 @VodafoneUKhelp @VodafoneGroup @VodafoneUK @DoT_India',?
+'@VodafoneUK Hi Vodafone. Its been seven days, but still no email :( A little help? https://t.co/0VcoeYBMit',?
+'No signal in Great Barr, Birmingham, B43 @VodafoneUK not happy at all.',?
+'@VodafoneUK I cannot log into my vodaphone as it does not recognise my email address . I have checked I have not made a typo.',?
+'@VodafoneUK downloading at between 0.4mbps and 10mbps on my up to 76mbps home broadband tonight. Any issues in north east Scotland?',?
+'@Phonemast @benwood @VodafoneUK @CBS_Business @PedroClarke1 Whereabouts?',?
+'RT @StopFundingHate: Todays Sun advertisers include: @Plusnet @bt_uk @TalkTalk @TUIGroup @virginmedia @VodafoneUK @Debenhams @SkyUK @Smart…',?
+'@VodafoneUK https://t.co/kXPlSiVRhD',?
+'@VodafoneUK @jesse_a So its a complete coincidence so many of us are reporting a lack of service? 🙄🙄🙄🙄',?
+'@VodafoneUK Service was working about an hour and a half ago. Hard to believe that you were unaware esp due to the… https://t.co/NhQAbXmS4I',?
+'@VodafoneUK M333jb',?
+'@VodafoneUK I’ve been in touch about 10 times to arrange a return pack or collection, with no luck. Now I have a phone that doesn’t work 2/3',?
+'@VodafoneUK when will the iPhone X be available to order/upgrade to?',?
+'@benwood @VodafoneUK @CBS_Business @PedroClarke1 L08 10mhz CA with L21 15mhz Huawei gear in a very tidy package! An… https://t.co/3cUlNmxOFq',?
+'@rox_1990 @NicMcTwaty @VodafoneUK I just read their reply. Are they expecting you to believe there’s been no issues!!',?
+'Hi @VodafoneUK: I upgraded my phone in Aug and it stopped working in Sep. I got in touch before 30-day period, was told phone was faulty 1/3',?
+'@VodafoneUK @Pathenry97 Are you even taking note of how many customers are reporting THE SAME problem?',?
+'@VodafoneUK It is a truly awful insurance policy when so many others offer next day replacements. Will be making a… https://t.co/GglhuuBbhj',?
+'RT @Cat_Whiting1: #Vodafone @VodafoneUK been waiting for 1 hour 45 minutes to speak to someone!!! 1 HOUR 45!mins!!!!! This is a joke!!!!',?
+'@VodafoneUK Very poor signal strength suddenly since this morning in SW15 area in Putney. If this a known issue?',?
+'@VodafoneUK @carawelch89 So its a complete coincidence so many of us are reporting a lack of service? 🙄🙄🙄🙄',?
+'After ~12 yrs with @VodafoneUK seriously contemplating switching supplier. Two 20 min phone calls to them in the last week, both useless...',?
+'@VodafoneUK: @marksandford Hi Mark, Can we help you with anything? Nate.          Yes release me from my ... https://t.co/zHAbhpj8Ds',?
+'@VodafoneUK You REALLY dont listen do You? The phone is near pristine. SMH',?
+'@VodafoneUK The plan switched within 10 hours or less the sim hasn’t been working for 6 or so hours. (Around 24 hou… https://t.co/IP37nyEVzT',?
+'@markgelly4 @VodafoneUK EE is the place to beeeee',?
+'@VodafoneUK I’ll just leave',?
+'@VodafoneUK your suppose to have the best 4g in the country yet I can’t get signal in my own house.',?
+'@sammimarsh1 @VodafoneUK https://t.co/RHrQpXKiFx',?
+'@VodafoneUK I have had to hang up and re-dial.. @VodafoneUK sort it out',?
+'@VodafoneUK I lost connection to the network 30mins ago &amp; cant get through to call centre. Is there a problem in the Harrow area?',?
+'@stfcinbmth @VodafoneUK Magically after I sent that tweet my signal came back, Im magic 😂',?
+'RT @VodafoneUK: @hoot_helena We take that a yes then! Did you see our last TV advert starring the man himself? You can watch it again here:…',?
+'@VodafoneUK big time no signal in all of east London please sort it',?
+'Anybody else in London been having problems with @VodafoneUK signal recently? Trying to work out if its my phone or network thats rubbish',?
+'@VodafoneUK not only are illegally taking money without authorisation youve now reversed a transfer of ownership without authorisation 😡',?
+'@VodafoneUK 40 mins on hold waiting to speak to someone. Totally unacceptable. Callback service is crap! No online chat either! WTH?! 😠😠😠😠😠😠',?
+'@VodafoneUK But my phone says “no service”? https://t.co/hWVzcH2XqO',?
+'@VodafoneUK No Service for 30+ mins, whats going on!?',?
+'@VodafoneUK Business customer cant make or recieve calls. Any Signal issues at present?',?
+'@VodafoneUK kindly stop your automated payment system harassing me with calls for money when I have paid my bills.',?
+'@VodafoneIN @TRAI @VodafoneUK it’s been 6 days since you tweeted you will call me. You guys are fooling around always',?
+'@Phil9616 @VodafoneUK Im on wifi dick shank 🙄jeeeesus',?
+'@VodafoneUK No signal, No data at a time when it was important to have both. Not impressed 😡😡😡',?
+'@NicMcTwaty @rox_1990 @VodafoneUK https://t.co/K5zXivyBVd',?
+'Anyone else got no service on @VodafoneUK ?! Argh!',?
+'@danfryer @BBCBreaking @VodafoneUK signal appears restored in Fife, but still unable to make calls, send texts in over 30 mins.',?
+'@TheBoyDL @samkelly_uk @VodafoneUK Bloody hell ...... come on Vodafone!!!!',?
+'@VodafoneUK lost signal within last 30 mins. no data connection and emergency calls only. Phone rebooted, not airplane mode and moved a mile',?
+'@samkelly_uk @RobGee1972 @VodafoneUK And London 😡',?
+'@NatJablonskas Mine is also down @VodafoneUK',?
+'@Hallam999 @NicMcTwaty @VodafoneUK Unacceptable lol',?
+'@rox_1990 @NicMcTwaty @VodafoneUK I might put in a complaint. Their lack of signal has forced me into a purchase for the wife.Double trouble',?
+'@sammimarsh1 @VodafoneUK Im not on Vodafone, but it seems like theres a spike in issues in the last couple of hou… https://t.co/Upvnrd0isg',?
+'@VodafoneUK help! Wheres the network gone? Cant call/text or connect to the Vodafone network. No info, but clearly a big problem #Vodafone',?
+'@VodafoneUK why do I have no service 😡😡😡',?
+'@VodafoneUK Having issues with getting a service on Vodafone, can you say how long this will be for please?',?
+'@VodafoneUK you made life very difficult tonight. Zero coverage all across London. Please fix.',?
+'@VodafoneUK whats happening with signal? Any updates please on when it will be back working?',?
+'Hey @VodafoneUK whats up Ive had no signal for over an hour?',?
+'@yancruddas @VodafoneUK Apparently not. I’ve sent several in past hour!',?
+'@VodafoneUK whats going on with your network? I have not had any signal for the last 2 hours. Nothing on your website about a service outage',?
+'@VodafoneUK what has happened to my phone signal and internet? Please advise',?
+'@LongPhil @VodafoneUK Don’t get them?! Why they can’t #KeepCustomersInformed baffles me!! #PoorCustomerService',?
+'@VodafoneUK What’s happening with the network?  No signal meant no mobile bus ticket, no taxi, no calls - commuting nightmare',?
+'@VodafoneUK had no service for about 2 hours now. Thankfully now using Wifi. When will this be sorted please?',?
+'@VodafoneUK had no signal for an hour moved every where to try and get it normally fine 🤙🏻👍🏻',?
+'@ProlapsedNun @VodafoneUK No rolex',?
+'@VodafoneUK is anyone else showing no service !!!!!',?
+'@spsmith136 @VodafoneUK Exactly the same. No response from them either',?
+'Anybody else having issues with @VodafoneUK ? No data and wont let me ring out says invalid number!',?
+'No @VodafoneUK signal in Colchester. Whats going on??? #vodafone @vodafone',?
+'@VodafoneIN @vodafoneNZ @VodafoneUK @VodafoneAU @VodafoneQatar @VodafoneUKhelp @VodafoneGhana @Vodacom Since lst 6d… https://t.co/aihWhxO5pl',?
+'#UnboxYourPhone Samsung Galaxy S8 Plus, from tariffs of £42 p/m @VodafoneUK via @EzMobiles https://t.co/RbUJd9J8k4 https://t.co/AYHePsBLJP',?
+'@VodafoneUK Hi my phone has no service permanently! It’s fine on WiFi but just displays no service constantly!! Can you help please?',?
+'@VodafoneUK what’s up with #network? Can’t make or receive calls?! #vodafone',?
+'Anybody else’s network down that on @VodafoneUK #vodafone',?
+'@VodafoneUK my 3g is not working and signal saying no service cant connect to wifi help me pls',?
+'@NicMcTwaty @rox_1990 @VodafoneUK thankfully not just me,thought the wife hadn’t paid the bill',?
+'@Hallam999 @rox_1990 @VodafoneUK I’ve go no service as well',?
+'@VodafoneUK I’ve been experiencing No service for the past hour is there currently an issue?',?
+'@VodafoneUK Latest muzak update: a really crap cover of Cant Take My Eyes Off You',?
+'@VodafoneUK If youre going to make customers wait for ages on the phone, have more than two songs to listen to. And not execrable ones.',?
+'@VodafoneUK what a joke !Loyal customer = poor service!No customer service !',?
+'@VodafoneUK Im trying to change my temp password, but it just keeps saying Were working hard to fix the issue, so please try again later',?
+'@VodafoneUK is there an issue with the service in Southampton? I have none and am unable to make calls or texts!!?',?
+'@VodafoneUK Also my service in general keeps going?',?
+'@VodafoneUK can somebody please send me a working link to claim my free broadband gift. The link provided sends me back to registration page',?
+'@Ashleylondon @VodafoneUK 😲I have had the same experience - not Morocco though- so annoying !',?
+'@VodafoneUK AIM within 4 hours, but does that mean 346 hours is ok ? just missed the target slightly',?
+'@VodafoneIN @vodafoneNZ @VodafoneUK @VodafoneAU @VodafoneQatar @VodafoneUKhelp @VodafoneGhana @Vodacom 1st understn… https://t.co/RUmIOHmSNT',?
+'@VodafoneUK hi,is there a network issue in the London area?',?
+'@VodafoneUK Im going to be spending a few days in Brugge, how will this affect my plan??',?
+'@elliotsmith93 @VodafoneUK Bad mouthing Vodafone and now the bold TJ from customer services wants a scrap.',?
+'Does anyone know how long it takes to upgrade to a new phone in a shop? @VodafoneUKhelp  @VodafoneUK',?
+'@VodafoneUK Is this one of your numbers 01709 918621. Got a call regarding a broadband deal.',?
+'@VodafoneUK If Im leaving the UK for 5 months is there anyway I can freeze my mobile contract?',?
+'@elliotsmith93 @VodafoneUK 😭😭😭😭😭😭',?
+'Spent over 1 &amp; 1/4 hours trying to get through to @VodafoneUK last night. It’s no wonder I’m looking at another supplier.',?
+'@VodafoneUK genuinely holding people to ransom because of their own incompetence #failure #notmyfault #puttingpeopleindebt',?
+'How many times does your S8+ have to brake before @SamsungMobile or @VodafoneUK supply you with a new one #faultygoods #runaround',?
+'Dear @VodafoneUK how much longer will your online portal for upgrades be down? Its been about 4 days now &amp; a new phone is required!',?
+'@VodafoneUK Check further back in the tweets',?
+'@VodafoneUK I have also been down the email route to no avail',?
+'@VodafoneUK Ive now been on hold for 30 minutes, trying to speak to someone: this is unacceptable. Shall I start l… https://t.co/b9krdO1JDc',?
+'@VodafoneUK This was 7 days ago. No email...Whats the score? https://t.co/duEITV5hak',?
+'@VodafoneUK @Ghayyur_Mirza Why don’t you stop stealing money off of your customers and start teaching good customer… https://t.co/OeYIg4OSzm',?
+'@VodafoneUK Preston',?
+'@VodafoneUK noticed. I pay a monthly contract with you which includes the purchase  of the phone, which was faulty… https://t.co/d7cGjVLxoV',?
+'@VodafoneUK I got a cancellation email today so want to confirm it’s correct but I put the phone down after being o… https://t.co/MbcWIR641y',?
+'@sharonodea @nicolatheron @O2 @EE @VodafoneUK Aye - but they don’t tell you what the fair usage is. It’s throttled… https://t.co/15x5sSz3Ph',?
+'Omg the @VodafoneUK internet at mum’s is so slow it reminds me of being in Pakistan (and not in a good way) 😭',?
+'.@VodafoneUK Suddenly received a bill for £257 paying for 2 numbers we dont have!!! Not very pleased.',?
+'@sharonodea @nicolatheron @O2 @EE @VodafoneUK Local sims are the way forward.',?
+'@edd_powell @EE @VodafoneUK @ThreeUK What are you doing iPhone?!',?
+'Is it not embarrassing @VodafoneUK to heavily advertise at Waterloo station where you get a full 4G signal but can’t use at all in rush hour',?
+'Yes @VodafoneUK!! https://t.co/ts4iNzsTRU',?
+'Well @VodafoneUK are literally the most useless network on this planet. No doubt gonna bail from them asap.',?
+'@VodafoneUK Hi I was just wondering if you carry on paying the full amount on your contract once your contract has… https://t.co/SwzoMoLhun',?
+'@VodafoneUK Liquidate',?
+'@VodafoneUK I would have tweeted that earlier but I didn’t have any signal https://t.co/VvvaIeYAbP',?
+'@VodafoneUK customer service is terrible. Anyone recommend a good network to move to to get the 8+?',?
+'@VodafoneUK Staggering that you get terrible customer service and nobody at Vodafone UK cares enough to respond#',?
+'@vodafone @theresa_may @VodafoneUK @Ofcom @BBCNews @lynbrownmp @SkyNews what does @Ofcom DO about companies like… https://t.co/9ODJOZrEXe',?
+'@VodafoneUK are you having problems with your customer account system? I’m trying to log in and see my bill, but I’m just getting errors.',?
+'@VodafoneUK is there any way to get one of the sim only introductory offers (that end in november) if my contract ends the month after? 😕',?
+'@SamsungHelpUK I got my s7e a while back on @VodafoneUK with a factory defect but they refuse to repair. Any chance… https://t.co/2zs7FkMfKz',?
+'@VodafoneUK https://t.co/YLVjJtW5yp',?
+'RT @CouncillorTudor: I wonder what it would take to get a phone signal between Bristol and Birmingham, @VodafoneUK ? A contract? No, have o…',?
+'@VodafoneUK disgusted you charged me £18 when I was using only WiFi on a ferry, complaints contact info please? https://t.co/Ksm5tcCfTm',?
+'I have received my phone bill and I have to pay £32 for having to chase this delivery for days. Any chance of a rei… https://t.co/DwwqTGuzpj',?
+'Thank goodness I’m with @O2 and not @VodafoneUK - still queuing to sort out their mess! Must have a lot of customers trying to cancel! 😡😡',?
+'In a queue to speak to @VodafoneUK for 30 minutes so far to sort out their mess that we’re paying my for! Maybe lin… https://t.co/jhtwKrtVsx',?
+'@VodafoneUK This is not a new contract. I tried ringing and the signal dropped and cut me off. Not good enough!',?
+'RT @StopFundingHate: Todays Sun advertisers include: @Plusnet @bt_uk @TalkTalk @TUIGroup @virginmedia @VodafoneUK @Debenhams @SkyUK @Smart…',?
+'RT @StopFundingHate: Todays Sun advertisers include: @Plusnet @bt_uk @TalkTalk @TUIGroup @virginmedia @VodafoneUK @Debenhams @SkyUK @Smart…',?
+'RT @StopFundingHate: Todays Sun advertisers include: @Plusnet @bt_uk @TalkTalk @TUIGroup @virginmedia @VodafoneUK @Debenhams @SkyUK @Smart…',?
+'RT @StopFundingHate: Todays Sun advertisers include: @Plusnet @bt_uk @TalkTalk @TUIGroup @virginmedia @VodafoneUK @Debenhams @SkyUK @Smart…',?
+'@VodafoneUK My flatmates are spending £££ on data. I work from home with partners in the USA and losing income due… https://t.co/tg2AXC22hf',?
+'RT @StopFundingHate: Todays Sun advertisers include: @Plusnet @bt_uk @TalkTalk @TUIGroup @virginmedia @VodafoneUK @Debenhams @SkyUK @Smart…',?
+'RT @RadleyYeldar: Huge congratulations to our clients @VodafoneUK, @BAESystemsplc, @DeLaRuePlc, @Spirax_Sarco_UK and #Berendsen for being s…',?
+'@TheBigCheesePho @VodafoneUK Go for a rebate from them.',?
+'Todays Sun advertisers include: @Plusnet @bt_uk @TalkTalk @TUIGroup @virginmedia @VodafoneUK @Debenhams @SkyUK… https://t.co/EHA1rso2pF',?
+'@VodafoneUK unable to provide guaranteed minimum speed, yet you want £250 to exit our contract. Are you having a laugh? #constantbuffering',?
+'@VodafoneUK I ended up phoning, the issue itself now resolved, your online chat was however rather useless',?
+'@VodafoneUK Its in pristine condition, and I reported the issue earlier as you can see o  my account if you check. (2/2)',?
+'RT @iffish2017: @VodafoneUK Call off your collection TEAM and stop trying to intimidate me its not working',?
+'RT @iffish2017: @VodafoneUK Telling a customer to go f#@k themself then putting them on contracts that benefit vodafone without their permi…',?
+'RT @StopFundingHate: Todays Sun advertisers include: @Plusnet @bt_uk @TalkTalk @TUIGroup @virginmedia @VodafoneUK @Debenhams @SkyUK @Smart…',?
+'RT @Matt_Fell: @DPD_UK @VodafoneUK 2 weeks of no internet, 1 requested redelivery, 1 missed Sat delivery (which I was told didnt happen) @…',?
+'@VodafoneUK call centre and Vodaphone India is taking grudge on me for all my last critical tweets for their extremely worst service',?
+'@StopFundingHate @gladstonebrooke @FidelityUKPR @Bupa @virginmedia @newsworks_uk @TilneyGroup @VodafoneUK No time f… https://t.co/sTx85UFNkG',?
+'When will the @Apple #iPhoneX be viewable in #phoneshop @ThreeUK @O2 @VodafoneUK',?
+'@VodafoneUK Was told you would be back in touch within 5 days still nothing, NO SURPRISE, but have had an email thr… https://t.co/gPCGyozmMi',?
+'@VodafoneUK Sir vodaphone consumer form india, maharashtra Goa, phone no 00919823355659, decucted Rs. 845 INR, with no service activated',?
+'RT @8amy232: @vodafone @theresa_may @VodafoneUK @Ofcom @BBCNews @lynbrownmp @SkyNews what has #Ofcom done about all those customers who hav…',?
+'@VodafoneUK i’ve been wrongly charged £180 for my last phone bill??i went over my data by £26 and had my phone on airplane mode for a week??',?
+'@VodafoneUK Still no call. I called three times today codes do not work. Noone seems to know what they are doing',?
+'RT @8amy232: @vodafone @theresa_may @VodafoneUK @Ofcom @BBCNews @lynbrownmp @SkyNews what has #Ofcom done about all those customers who hav…',?
+'@vodafone @theresa_may @VodafoneUK @Ofcom @BBCNews @lynbrownmp @SkyNews #VODAFONE CUSTOMERS BEEN OVERPAYING ON PHON… https://t.co/iN4U2OjeC0',?
+'PARTNER: @VodafoneUK has identified 5 trends that will drive digital government. Download the full report:… https://t.co/U74GH9XzNQ',?
+'PARTNER: @VodafoneUK has identified 5 trends that will drive digital government. Download the full report:… https://t.co/S8B10Zce4m',?
+'Still on hold to @VodafoneUK for nearly an hour and I only need to have a 5 minute convo 😤😡😒',?
+'@VodafoneUK after a wait of 2 weeks we were supposed to have broadband on Oct 4th. Now waiting another 10 days for a router. Out of stock!',?
+'@VodafoneUK I’ve recently upgraded and my Spotify isn’t working. How can I get the text link sent to my phone to set it back up again?Thanks',?
+'@VodafoneUK And I have no idea if anyone is actually doing anything or if anyone is going to get back to me.',?
+'@MDocCars @VodafoneUK Weird',?
+'Are you joking?! @VodafoneUK, I get this ONE DAY before my allowance gets updated. Better late than never, eh? https://t.co/y25vvx6gtC',?
+'@VodafoneUK what is happening to your fibre broadband in #Basingstoke SO SLOW this morning in RG24 9TH area https://t.co/jCmEJjQEeT',?
+'@zahidtg @VodafoneUK @pubdaddy @Ofcom @ICOnews @kestermann I tried that. Nothing happened. Bizzare. https://t.co/WlKWNjk4Ud',?
+'@VodafoneUK is a pioneer when it comes to workplace #diversity but they say #quotas aren’t part of its plan. #HRnews https://t.co/bomY6WWGrN',?
+'RT @KirstySimmons7: No signal AGAIN @VodafoneUK  What am I paying line rental for? Not a happy customer ☹️',?
+'@RoryKoper @VodafoneUK Did you ever get this resolved sass queen? 👑',?
+'@VodafoneUK Unsure of ! Your thieving gits charge £5022 for a weeks data. A mistake was made. Apparently you say I… https://t.co/pKgAMAWO4I',?
+'RT @TwitterMktgUK: Find out how @VodafoneUK used Twitter Video to scale its sponsorship of Capital’s Summertime Ball. #CapitalSTB https://t…',?
+'@VodafoneUK Replace within 4 hours.... What about your ordinary long standing customers? Ive been waiting since 18… https://t.co/X5jNytcJ4y',?
+'@VodafoneUK Thats a very professional response but it didnt answer my question.',?
+'@VodafoneUK Yeah it’s my first bill. But I have already paid an upfront cost of £30',?
+'I urge my 507 followers to NEVER use @VodafoneUK for their broadband service! Ridiculously bad!',?
+'@VodafoneUK my online card payments without fail go missing every month ! Turning up then you charge me late payment!!!!',?
+'@brutality90 @EE @VodafoneUK What’s that?',?
+'@VodafoneUK Wished you answered your phones as quick as you reply to tweets. I gave up and signed up with @O2',?
+'@VodafoneUK customer service is absolutely awful, over an hour waiting on the phone 😤 https://t.co/QMwmk2BhW9',?
+'@VodafoneUK https://t.co/vLJCM6G2oG',?
+'@ChrisMorleyUK @VodafoneUK @Spotify They need to get quality staff.',?
+'@VodafoneUK Well Ive had pretty much no signal since about 5pm! Not like Im in a rural location.',?
+'@VodafoneUK https://t.co/jhHTDwBxfj',?
+'Help, why cant no one hear me when Im on the phone but i can hear them? @SamsungMobile @VodafoneUK',?
+'@VodafoneUK Do I have to change my account to premium? Or will that happen automatically',?
+'@VodafoneUK One of the UKs biggest phone fails is this advert that I saw. uh oh... #powertoyou https://t.co/ShZTatSNCy',?
+'I live for the day @VodafoneUK  actually know how to manage @Spotify licences.',?
+'@hannahpretty30 @VodafoneUK No. EE.',?
+'I rest my case, @VodafoneUK. https://t.co/cLX0RAT7gr',?
+'@VodafoneUK If there had been an unexpected issue in London, you would have fixed it the same day. Why are we count… https://t.co/2q4TMz6a3q',?
+'@VodafoneUK Finally go through to Egypt who told me after 35 mins what I wanted to know and that the complaint I ra… https://t.co/hzckPyexiS',?
+'@VodafoneUK *tumbleweed*',?
+'@VodafoneUK It’s not; it’s an unwanted intrusion added to my tariff that would’ve cost me an extra £1/month.',?
+'.@VodafoneUK oh no fibre broadband gone down! First problem I’ve had since becoming a customer in August',?
+'@VodafoneUK I wanted to discuss my contract - thinking of leaving and was hoping to talk to someone about this.',?
+'THE WORST CUSTOMER SERVICE EVER!!! @VodafoneUK @VodafoneEgypt',?
+'@VodafoneIN @VodafoneUK Should I now expect new deadline or any other solution is available?',?
+'RT @TheAWSmith: Turns out there is a company worse than @Se_Railway -its @VodafoneUK Cant run a bath never mind a mobile network #zerocus…',?
+'Wow. @VodafoneUK - why haven’t you cancelled my account after stating you had. I can’t even get through to call you!',?
+'@VodafoneUK Well I’ve been trying to get through for 2 hrs now through your number and live chat. https://t.co/TA3MouBxDS',?
+'@VodafoneUK The website is down again, all im seeing is a white screen',?
+'@VodafoneUK Seriously! I started at 9 this morning. Still nothing.',?
+'@VodafoneUK I have had no service for 2 days now. #Cornwall Can you help plse.',?
+'@VodafoneUK I’ve lost my phone, but nobody is answering your customer service number...',?
+'@EE very disappointed with @EE never thought it would be so hard to get a deal to upgrade. I will be looking to go with @VodafoneUK',?
+'@VodafoneUK  what a joke !!',?
+'@VodafoneUK. Your website popped up with the live chat on the side. I clicked it. Didn’t realise I would get told o… https://t.co/84Yhu329Jy',?
+'@VodafoneUK Please sort out the coverage in the LL55 area. Been out for 2 days now 😡',?
+'#UnboxYourPhone Samsung Galaxy S8 Plus, from tariffs of £42 p/m @VodafoneUK via @EzMobiles https://t.co/RbUJd9J8k4 https://t.co/yYKLGrJWrH',?
+'@VodafoneUK It is now 48 hours since I was PROMISED a telephone call within 24 hours. What is going on? Case ref :… https://t.co/CQBu8FDvcg',?
+'RT @costateguise09: @VodafoneUK All coverage in Waunfawr, Gwynedd, North Wales LL55 has been down from 12:00pm Saturday 21/10/2017 onwards.',?
+'@EE @theresa_may @MartinSLewis @bbc5live @BBCNews @BorisJohnson @VodafoneUK @O2 @ThreeUKSupport @tescomobile @SkyUK… https://t.co/8eazlz2CxZ',?
+'Me: My phone hs died, can you retreive info? Vodafone Shop. NO. Me; You cant help at all? Vodafone Shop. No  @VodafoneUK #NotHelpful',?
+'RT @Hels2009: Me: My phone hs died, can you retreive info? Vodafone Shop. NO. Me; You cant help at all? Vodafone Shop. No  @VodafoneUK #No…',?
+'RT @LucaFormica: Tech Trivia: OLED explained https://t.co/rvYDeputTl via @VodafoneUK',?
+'@VodafoneUK Wish I could but nothing works',?
+'@VodafoneUK Assistants in store unhelpful.  Not happy unless getting a sale.  Id be happy if I couldve been guara… https://t.co/VQKYDhcTm5',?
+'RT @kevinpaterson_: Just had this voicemail from @VodafoneUK greaaaaat customer service 🙃👍🏻 https://t.co/1t4LStYFdX',?
+'@VodafoneUK Credit file. Maybe sure I completed a transfer form several years ago as my brother has been paying DD… https://t.co/sKAfGQHW5J',?
+'@flossyontour @tibetanlost @VodafoneUK My existing phone is ancient. Only get two hours battery life from it and co… https://t.co/0BnyrsJxkr',?
+'@tibetanlost @flossyontour @VodafoneUK Its not the signal thats a problem, just the checkout page online. I can g… https://t.co/qFkqmhQSwM',?
+'@VodafoneUK My brother. However his number/account is linked to mine still so it shows on a credit check as Ive fo… https://t.co/qvmB3IIqjb',?
+'@tibetanlost @flossyontour @VodafoneUK I just did an online convo with their help centre as had forgotten my log in… https://t.co/2C1PszicnG',?
+'@VodafoneUK However I see the CEO of #Vodafone has an email address listed as nick.jeffery@vodafone.com so I sugges… https://t.co/NJ1AKZ4y5P',?
+'@VodafoneUK Wherever possible, we contact our customers doesnt really cut it as you have my address, my email, my… https://t.co/tOVP0MFYGW',?
+'@VodafoneUK The Ipad has never left my home is connected to my internet Hub its otherwise never used,They just kep… https://t.co/fswck3Krwt',?
+'RT @Blazespage: Blinking heck...been almost an hour trying to buy a phone at @VodafoneUK Still no luck...what a nightmare of a web page.',?
+'@VodafoneUK Maybe I should state ‘disenfranchised ‘ makes it easier for them and you then?...',?
+'@Blazespage @VodafoneUK You need some more iScot freebies 😉',?
+'@VodafoneUK Another day of leaving the house with no resolution and nobody can contact me. Hopeless',?
+'@VodafoneUK I cannot take it to the store this week as I’m working. I have already been down there twice in the last 2 weeks',?
+'@VodafoneUK Another hour of my life passes by with nothing from you. Really are terrible at customer service',?
+'RT @VodafoneUK: Huge 20GB data, unltd mins &amp; texts with data-packed SIMs. The future is exciting. Ready? https://t.co/QXuq6MPzq8',?
+'@VodafoneUK Would u believe me if I said ur team tried to call on disconnected line?I certainly cant.Please esac… https://t.co/ZKYpBtpBhS',?
+'@VodafoneUK service has now been down for 10 days, if this had happened in London, you would have fixed it within h… https://t.co/XhImnk8K01',?
+'RT @EmilyStevens29: @VodafoneUK customer service is absolutely disgraceful...would never in a million year recommend them.',?
+'Im disappointed to hear that.Well only be able to look into any compensation when the issue has Matthew R @VodafoneUK you land me both',?
+'@vodafoneuk  #PS4share https://t.co/pmF7nGRsuz',?
+'RT @Write2Manmohan: @VodafoneUK @VodafoneQatar @vodafoneNZ @VodafoneGhana not getting single network signal +919911111689 @prashantruia… ',?
+'@VodafoneUK I won’t',?
+'@Ghayyur_Mirza @VodafoneUK @VodafoneGroup @Ofcom I left after being a customer over 10 years, I now pay a third of… https://t.co/FTFzfZHaxf',?
+'@VodafoneUK I was already lost hours on the phone qith customer service. this haa to be escalated and webchat is just a wast of time',?
+'@VodafoneUK Thanks Jo, but I think Vodafone need to get their act together because customer service is shambles &amp; your prices a rip off.',?
+'RT @RadleyYeldar: Huge congratulations to our clients @VodafoneUK, @BAESystemsplc, @DeLaRuePlc, @Spirax_Sarco_UK and #Berendsen for being s…',?
+'@VodafoneUK Jo, Im already trying to contact you on one platform - why bother with another one!?',?
+'@VodafoneUK Shop still refuses to deal with as jiffy bag sent out and on system phone line unable to contact shop left message on managers',?
+'@VodafoneUK Ironically the leaving department. https://t.co/jdKDpbssE6',?
+'@VodafoneUK an hour trying to get through to your team...pretty appalling. https://t.co/hUQQsHuNkB',?
+'@VodafoneUK The Mall in Maidstone, Kent. How do we get our £15 back then please?',?
+'@VodafoneUK You have got to be joking, I will send an email to Vittorio Colao highlighting the poor service',?
+'@VodafoneUK such a awful experience. Two year contract and can’t get my phone to work abroad?! Been to Two stores and no one can help?',?
+'@VodafoneUK I want to talk to someone, poor service Bye Vodaphone looks like be going elsewhere',?
+'@VodafoneUK To be honest on live chat now, and they do not read the questions either!Very poor, you have training issues!😠',?
+'VodaRobbers @VodafoneUK https://t.co/1QM8mk2Hsi',?
+'@VodafoneUK What email can I send the info to?',?
+'@VodafoneUK Re-evaulating wether it is worth it as i can get it for free via my bank or work perks and makes sense… https://t.co/ADHLOL8zUg',?
+'RT @VodafoneUK: Big 8GB data, unltd mins &amp; texts with our data-packed SIMs. The future is exciting. Ready? https://t.co/ACMMGHQ7xD',?
+'@Blazespage @VodafoneUK Dont do it!!!! Cant wait until my contract runs oot.......4weeks 2days and counting 😁',?
+'@VodafoneUK Have done and still no response!!!',?
+'@VodafoneUK I called 191. Was first told that would keep my place in queue and would get call back by 7.30. Called… https://t.co/FY64TvrvTu',?
+'@VodafoneUK I’ve been waiting for transfer on live chat to your cancellation department for almost 2 hours now?',?
+'RT @Blazespage: Blinking heck...been almost an hour trying to buy a phone at @VodafoneUK Still no luck...what a nightmare of a web page.',?
+'@Blazespage @VodafoneUK Also the wonders of Amazon if you want to buy it outright. The EU SIM unlocked can be cheap… https://t.co/qs6wgifZrZ',?
+'#UnboxYourPhone Samsung Galaxy S8 Plus, from tariffs of £42 p/m @VodafoneUK via @EzMobiles https://t.co/RbUJd9J8k4 https://t.co/PTCgSycWnU',?
+'@VodafoneUK Already have they even seen the webchat where they quote the price and they told me they shouldnt of, told me to ring up',?
+'@VodafoneUK mis sold my upgrade by retentions so will be off to pastures new next week',?
+'RT @ChrisVinante: 10 h on @VodafoneUK CS 3 hours to make them admitting 10£ pm overch.7 h. to admit other 20£ pm overc. from one Year.#Mob…',?
+'Arrrggghhhh!!! Why is it impossible to log into your @VodafoneUK app! Every month I have to go through the same palava of resetting it!',?
+'@VodafoneUK Done',?
+'@csd31989 @Nicola_Boros @VodafoneUK @ThreeUK @EE Interesting read so I can see your logic just saying personally ne… https://t.co/VFGS7rbGNC',?
+'@VodafoneUK hey there. Ive just got a new pay as you go sim, but the voicemail doesnt work and just says system unavailable??',?
+'Upgraded with @VodafoneUK received a faulty S8. Now in the 11th day waiting for a returns package. Terrible service.',?
+'@VodafoneUK I know but thats in March and that is way too far away. #bekind',?
+'@VodafoneUK, I know I have to be punished for cancelling the out-of-contract SIM-only card I lost, but 34 minutes on hold?! #totalloss',?
+'@VodafoneUK Already am, been waiting half an hour to get through on chat and 45 mins on the phone. It is not a grea… https://t.co/krn5E9ybXT',?
+'@darylbrillo @VodafoneUK  https://t.co/HEZKaE8Z6A',?
+'@LlanberisMRT @SamWarrenger @HywelPlaidCymru @PlaidArfon @VodafoneUK @siangwenfelin @dailypostwales All understood.… https://t.co/y6t3UuLYTz',?
+'@VodafoneUK Are you able to provide a pac or do I need to continue to hold on the phone?',?
+'RT @VodafoneUK: Super-boost your phone. Get a massive 40GB 4G UK data. The future is exciting. Ready? https://t.co/WjdFz3jovb',?
+'@VodafoneUK customer service is absolutely disgraceful...would never in a million year recommend them.',?
+'.@VodafoneUK it is soul destroying waiting on hold to speak to your customer services department.',?
+'Raging with @VodafoneUK who agreed to del my new phone for 23 Oct. @DPD_UK deliver yestdy but cos phone a/c isnt in my name I cant have it',?
+'@VodafoneUK been on hold for almost half an hour now, that and not having internet for almost a month is fun https://t.co/RGblLl0zw8',?
+'@VodafoneUK hi, not had any service all day. In Wimbledon',?
+'@VodafoneUK The one to cancel my account.',?
+'@VodafoneUK Your customers would like to hear there phone call without it breaking up or cutting out and how to avo… https://t.co/UM1t1qHmr8',?
+'@VodafoneUK Hi, I have full signal, 4G etc but everything has stopped working - my husbands is not working either? Is there a network issue?',?
+'@VodafoneUK 30 minutes on hold to get disconnected. Such a joke.',?
+'@VodafoneUK been on the phone 2 hours now waiting to be answered???',?
+'@VodafoneUK Hey, still not working no bars or limits showing on account Im baffled',?
+'@VodafoneUK Live chat link not working. DPD only delivery Mon-Fri when I work, Vodaphone wont change delivery address or leave elsewhere!',?
+'@VodafoneIN Again same reply you use BOTS you cheaters @VodafoneUK @VodafoneIreland @VodafoneGhana',?
+'@VodafoneUK no, Virgin West Coast, just past Coventry now. Speed test says 0.15 mbps download, unable to complete upload.',?
+'@kellyormesher @VodafoneUK Nothing but trouble with Vodafone but I always stick with them too. We’re gluttons for punishment! x',?
+'@VodafoneUK this is how long Ive been on hold for!!! Fuming aint the word https://t.co/dOUEHJdAM3',?
+'Why is @VodafoneUK mobile data so bad on the train?',?
+'@VodafoneUK I want to query my bill for this month.',?
+'@VodafoneUK how do I contact you for free if I havent got a Vodafone',?
+'RT @solange117117: .@VodafoneUK you are wasting my time again, horrible customer service. Charging me for something I cancelled months ago.',?
+'@VodafoneUK Is a there a problem with your online chat? I cant seem to access it.',?
+'@VodafoneUK Stop sending me letters to pay an account I’ve cancelled MANY TIMES!!!!',?
+'@Symsie101 @VodafoneUK #sponsored?',?
+'RT @Write2Manmohan: @VodafoneUK there is no network in india , several complaints made to @VodafoneIN @VodafoneGroup but of no use .See… ',?
+'@VodafoneUK @VodafoneQatar @vodafoneNZ @VodafoneGhana not getting single network signal +919911111689 @prashantruia… https://t.co/7oIf11VUxL',?
+'@VodafoneUK The issue is simple. When trying to call Vodafone, my experience is its impossible to speak to a real person. Fix that.',?
+'@VodafoneUK 4G is working just right, however is there anywy to browse local websites in English? In Turkey',?
+'To convince me that @VodafoneUK is on to of NY complaint and good attention to detail they call me Ben. Its Dan.… https://t.co/t8xJaUo6aJ',?
+'@VodafoneUK I recently switched landline and broadband to you. I asked for 3 simple features to be added to my land… https://t.co/C1kpHmlbc8',?
+'@VodafoneUK my experience with this company is beyond comprehension. I cannot wait to escape. You dont looks after customers of 10+ years',?
+'@VodafoneUK #pissedoff I need one simple thing done and no one is able to help #whydidiswitch',?
+'@VodafoneUK @VodafoneUK Yeah and I did DM and didnt get a response and I know this is a public channel, so thanks… https://t.co/6dWINePuvg',?
+'@vodafoneuk  #PS4share https://t.co/FJCGdfPN1I',?
+'@VodafoneUK with regards to your responses, picture says it all!!! Yes frustrating!! https://t.co/8h5LV1dT1m',?
+'@VodafoneUK Your DMs dont work! And your staff on the telephones have no power or are incompetent and your not all… https://t.co/mgH781OHO5',?
+'RT @redpaperrosecom: 2/2 @Ofcom @VodafoneUK not reasonable in the digital age. refund should be automated or at very least matter of 1 phon…',?
+'@preacher66 @VodafoneUK  at its best. Found so much on them and how terrible their service is! I suggest to all to… https://t.co/4QHP8vqym4',?
+'@VodafoneUK Eh nah @EE everyday of the week 💁🏻‍♂️',?
+'RT @PennonGroup: Looking forward to @GreatSW_uk 2nd annual summit.#BackTheSouthWest @VodafoneUK @WMNNews @HeartofSWLEP @CBItweets https:/…',?
+'But @VodafoneUK was being rude and telling me, I dont know who... is, this is a call centre, sir &amp; its late on a Friday night 1/2',?
+'@VodafoneUK Hmmm, Im a poor man, which is why I want a maximum of £14.49.',?
+'@VodafoneUK The problem is still not solved, I still have not possibility to call and my number is still not recognised under my contract !',?
+'9 days later and still no answers from @VodafoneUK about why my broadband isnt connected. Horrible customer service.',?
+'@redpaperrosecom @VodafoneUK If they don’t pay up then small claims court',?
+'Broadband down in the IV2 7LU postcode area. Any fixes? @VodafoneUK',?
+'@VodafoneUK So why hasnt it happened once in over 10 years? As I said, you have all my details, so you havent tried very hard.',?
+'@VodafoneUK The same link that doesnt work on different browsers, or even different browsers on different computers. Unbelievable!',?
+'@IanxGray @VodafoneIN @VodacomSoccer @Vodacom @VodafoneUK @vodafoneNZ @VodafoneIreland here you takin that vodaphone? #squarego',?
+'@VodafoneUK The automated service when calling from abroad is beyond ridiculous. I can’t even speak to someone on t… https://t.co/6PkCduoVbH',?
+'@VodafoneUK Sp11 7hg',?
+'@VodafoneUK call back between 8am and 6pm Monday to Friday. I need to discuss my account and bill',?
+'@VodafoneUK switched to you this month and so far VERY unimpressed. Going in to store for 5th time in a month to sort problems',?
+'@VodafoneUK  I have 4G signal but the Ofcom network app says I have no connectivity? All settings are good! Dont u… https://t.co/4NWgMPFzGM',?
+'@VodafoneUK Any update @VodafoneUK ?',?
+'Just had this voicemail from @VodafoneUK greaaaaat customer service 🙃👍🏻 https://t.co/1t4LStYFdX',?
+'@VodafoneUK Yes and all that had been done. It is all backed upland reset',?
+'RT @ChrisVinante: 10 h on @VodafoneUK CS 3 hours to make them admitting 10£ pm overch.7 h. to admit other 20£ pm overc. from one Year.#Mob…',?
+'@VodafoneUK As stated previous I would like to raise a complaint as Ive been completely messed around',?
+'@VodafoneUK May I DM you my number so someone can give me a ring?',?
+'@AmyLisaMcDonald @VodafoneUK @virginmedia Speak to CISAS!',?
+'Signals been awful all day hate @VodafoneUK can’t wait to get out this contract! I’ve only just renewed as well',?
+'@VodafoneUK Your 191 number tells me to go online! Honestly, Im at my wits end.',?
+'@VodafoneUK so thatll be 3 months without broadband and apparently no one at Vodafone can make an outgoing call to explain it to me...?',?
+'@VodafoneUK at the end where it says sign up does that mean sign up to Spotify or sign up to red entertainment?',?
+'@VodafoneUK Ive been trying to send upgrade requests via your website for about 6 months, but nobody is getting back to me.',?
+'@VodafoneUK Can’t it be done over public tweets? I’ve provided all of the information you need multiple times. I ju… https://t.co/0SXgf7cipl',?
+'@VodafoneUK No you dont. You have my phone numbers, my email &amp; my home address &amp; you havent notified me once in o… https://t.co/N3lAPhxTVz',?
+'@VodafoneUK And I have let you know at least 10 Times . Via all your media .',?
+'@EE Please put a mast up here 😁 pa318pj.. it’s a 3rd world signal ( the only network that works is @VodafoneUK and that’s poor.. help lol 😩',?
+'@mrchrisjohn @KathyShaw1 @VodafoneUK not convinced you actually get charged, on the same scheme and use it a lot.',?
+'RT @mrchrisjohn: Supposedly on @VodafoneUK ‘world traveller’ tariff at £5 per day yet been charged £39.01 so far after two hours in Dubai -…',?
+'@VodafoneUK I realise thats a bit Marie Antoinette, But seriously all of the apps you have to get back on, office connections etc etc..',?
+'RT @salter_jo: @StopFundingHate @Plusnet @bt_uk @TalkTalk @TUIGroup @virginmedia @VodafoneUK @Debenhams @SkyUK @SmartEnergyGB BT p… ',?
+'@StopFundingHate @Plusnet @bt_uk @TalkTalk @TUIGroup @virginmedia @VodafoneUK @Debenhams @SkyUK @SmartEnergyGB BT p… https://t.co/KnIwG9plvZ',?
+'@LiamSMacLeod @VodafoneUK Jesus. Targets, though, eh.',?
+'@VodafoneUK Well I wasn’t advice to do so. I was always told about 30/09 which is when my contract expires and in d… https://t.co/aF5NA51M6D',?
+'Ive literally called @VodafoneUK twice now and they still have made no advances in getting my problem fixed... why did I even switch? 🙄',?
+'RT @LucyTrueloveArt: @francosaidwhat @VodafoneUK @EE @O2 I’ve been with @ee for 21 yrs, next Friday I’ll decide if I’m leaving them for @O2',?
+'@VodafoneUK Boots your tax paying abilities Vodafone! @UKuncut',?
+'RT @EnriqueGuadiz: So this basically means @VodafoneUK has continued to charge me for my iPhone! Might be time to move to @O2 network!  htt…',?
+'@VodafoneUK I havent had one phone call or been contacted since my contract expired in Feb, I can see why now. I w… https://t.co/LbYxSfC5Zr',?
+'So this basically means @VodafoneUK has continued to charge me for my iPhone! Might be time to move to @O2 network!  https://t.co/F7kkXTNty6',?
+'@VodafoneUK Next time I am due for an upgrade I might change my provider being as I have four contracts with Vodafone and always pay on time',?
+'I have received this same reply for over 2 weeks. #thefutureisexciting 😑. @VodafoneGhana @VodafoneUK. Give me a def… https://t.co/P2189DxDvy',?
+'@selfless_bee @VodafoneUK Adorando filha! Saudades 😘',?
+'@VodafoneUK Still feels like a con - I specifically asked about plans changing and told there were no such plans',?
+'@VodafoneUK I dont believe that to be true. A global company like #Vodafone didnt get to where they are now by sa… https://t.co/p3viAUK9au',?
+'@VodafoneUK  how comes you dont reply as quickly as you chase people for payments?',?
+'@VodafoneUK absolutely shocking customer service. Billed wrong for 4 months, money taken out of my account and hours of wasted phone calls',?
+'@VodafoneUK I’ve been trying to get a solution to a simple problem since January and your decision is to cut off my… https://t.co/4GMSrNYUBF',?
+'@VodafoneUK I dont want to collect one. That means driving 7 miles there, 7 miles back. Thats why I phoned.',?
+'#UnboxYourPhone Samsung Galaxy S8 Plus, from tariffs of £42 p/m @VodafoneUK via @EzMobiles https://t.co/RbUJd9J8k4 https://t.co/NBIjA0NE1U',?
+'@VodafoneUK It would be nice to think so - but umpteen calls to complaints and still no understanding of the issu… https://t.co/ZsGSRSxUrz',?
+'@VodafoneUK @RJMarchantPlmbg Tell him you also dont refund excess payments you take. Wait you pretend you do refund it',?
+'@Pauldaveybrazil @VodafoneUK They dont assume it... They pretend to be helping whilst robbing you',?
+'10 h on @VodafoneUK CS 3 hours to make them admitting 10£ pm overch.7 h. to admit other 20£ pm overc. from one Year… https://t.co/CNjxDJtnvP',?
+'@VodafoneUK @twt_trv Save yourself.... Leave this thieving company',?
+'@VodafoneUK @YarcoSim And then theyll tell you the same thing tomorrow',?
+'RT @YBPLive: Never go with @VodafoneUK worse customer service imaginable im not even joking',?
+'RT @WhittakerRob: Fed up with @VodafoneUK support, get pushed to different contact route, multiple conversations never sort first time.',?
+'RT @Becca_JC: Well what a way to start a Friday @VodafoneUK  managed to totally irritate me - dont overcharge me when you didnt communica…',?
+'RT @MegaanMcGowanx: @VodafoneUK You guys keep saying this and you are lying!!This has been going one for nearly a month and when I think it…',?
+'@VodafoneUK pt.2 - then was completely dead. Vodafone store shrugged at me and said nothing they can do..............',?
+'@VodafoneUK https://t.co/whPAJo6c0u',?
+'@VodafoneTR @VodafoneDestek @VFreeZone @VodafoneUK şu salak mesajları ya engelleyin ya da onlarla beraber sizi de ş… https://t.co/6ngC8wgumI',?
+'@jamesohara11 @VodafoneUK Aye a was the same with my contract a ended up jumping to o2 after getting messed about for about 3 months mate',?
+'@VodafoneUK Hey Nate. Im leaving the UK. Turns out its cheaper to not cancel my contract but run it out. Spoke to… https://t.co/KZ1IyLazBP',?
+'Switched to @O2 and customer service has been so much better than @VodafoneUK #thankgodichanged!',?
+'PARTNER: @VodafoneUK looks at the five trends helping to drive digital change: https://t.co/CPeiERuP74 https://t.co/7RNLwQ6hzH',?
+'RT @jemmadm: 2 days with no phone service, hours on the phone to @VodafoneUK customer service being lied to and they offer me £16 compensat…',?
+'@VodafoneUK Yeah I wanna cancel my iPad contract.',?
+'@VodafoneUK Data cap should come with all mobile data contracts If youve had a massive bill complain or go to @O2 where data caps standard',?
+'PARTNER: **Northern Ireland readers** @VodafoneUK offers Stormont solutions for digital government. Full report:… https://t.co/lFLoipZLdD',?
+'@VodafoneUK And don’t give me a “Corporate” or “Tow the Line” reply. I’m tired of companies answering questions by… https://t.co/Cl0ACV0KPq',?
+'@VodafoneUK I used it the next day. It wasn’t',?
+'Very fed up @VodafoneUK it seems no matter what I do you can’t get it right. Now I’m having to do a formal complaint.',?
+'RT @LucyTrueloveArt: @VodafoneUK on behalf of my partially sighted aunt- account 7026740819. She’s been waitin wks and has no phone THIS IS…',?
+'If anyone hears a really loud POP itll be @VodafoneUK finally pulling their collective finger out of their arse. Still no unlock code.',?
+'RT @LucyTrueloveArt: @VodafoneUK I advised her to go with @EE or @O2 and shes regretting it now we’ve been waiting 3wks for a manager to ca…',?
+'@VodafoneUK I advised her to go with @EE or @O2 and shes regretting it now we’ve been waiting 3wks for a manager to… https://t.co/sZ0LPHVJBz',?
+'Funny! Ive 3 phones with @VodafoneUK I cant remember EVER being contacted close to renewal.… https://t.co/Cq02u2BwPV',?
+'@VodafoneUK @timntweet be prepared for a long wait..weve had ongoing problems with them for 9 months and its still not sorted',?
+'@timntweet @VodafoneUK Ill be leaving them after 14 years next month.  Their customer service is shocking.  No goi… https://t.co/g6tldja4kk',?
+'@VodafoneUK are a terrible network, shouldve listened to the warning signs from the get-go...The helpline is shocking and helpless',?
+'#iPhone 8 is built for todays mobile #business world. Get an extra 10GB with @VodafoneUK https://t.co/xnoDDgKJuK',?
+'Losing the will to live waiting to speak to @VodafoneUK retentions - waiting in queue for 40mins now, hold music starting to drive me insane',?
+'Customer service @AmericanExpress is just the dream :) take note @VodafoneUK and @virginmedia :)',?
+'If I was having any doubts about switching from @VodafoneUK that last text removed them #perfecttiming https://t.co/7k8IBLxEdz',?
+'@VodafoneUK Yes, I spoke to an advisor this morning, got it fixed and its down again 4 hours later! 😡',?
+'@VodafoneUK @EE @ThreeUK @tescomobile @CPWTweets',?
+'RT @TheApptrackers: You should all know that currently @EE , @VodafoneUK and @ThreeUK keep charging you for the device portion of the contr…',?
+'@VodafoneUK Muki, just done that. Can you confirm receipt?',?
+'@VodafoneUK @SpotifyUK Tough one that Ben. No Friday feeling for me this weekend sadly Im working it all. 😪 Have a good one yourself',?
+'PARTNER: @VodafoneUK knows what it takes to navigate the pressures of the public sector. Download the full report:… https://t.co/rCeWZ8BGW3',?
+'You should all know that currently @EE , @VodafoneUK and @ThreeUK keep charging you for the device portion of the c… https://t.co/Qsy266ejFV',?
+'@VodafoneUK and your agent just ended our chat i the middle of it. real professional vodafone. this is absurd.',?
+'@VodafoneUK hi Im trying to fill in the Advantage form for NHS discount but its saying my work email isnt eligible? But its NHS?',?
+'@VodafoneUK you guys can b such life savers at times #PowerToThaVoda 🙌🏽🙌🏽🙌🏽💯',?
+'@VodafoneUK i’ve been trying for DAYS to close my phone account but can’t get a hold of anyone!!! i NEED it closed. i moved months ago!!!!!',?
+'Not had a signal on my phone for a hour now @VodafoneUK any idea as to why dn8 area',?
+'@VodafoneUK thank you - how can i find my order number please? I wasnt given this on the phone when ordering the phone.',?
+'@VodafoneUK promoting #digital enterprise zones in SW at @GreatSW_UK #backthesouthwest @metoffice @LeadsToYou https://t.co/DEKSaKB59N',?
+'RT @aimeemilesx: This is what happens when @VodafoneUK @VodafoneUKhelp offer you cheaper bills, they increase them instead. What a rip off!…',?
+'@VodafoneUK talking about a modern approach to digital infrastructure. https://t.co/rLrrJVuBq5',?
+'RT @mobileworldlive: The thing that really matters is that the UK becomes a leader in next-generation networks” @VodafoneUK CEO #5G  https…',?
+'What have mobile phone providers got to hide when they cant even give customers a breakdown of their handset repayments? @VodafoneUK',?
+'PARTNER: @VodafoneUK enables direct interactions between citizens and govt through a range of channels. Full report… https://t.co/i140PC1K8h',?
+'@VodafoneUK @VodafoneUKhelp are the #worstnetwork #liars #cheats #nocarefordisabilities #badcustomerservice #avoid',?
+'RT @mobileworldlive: The thing that really matters is that the UK becomes a leader in next-generation networks” @VodafoneUK CEO #5G  https…',?
+'Cant do business without your phone? Stay in contact with Business Extra from @VodafoneUK https://t.co/Rhva0mVWHg',?
+'@VodafoneUK -paying money to leave this headache and to cancel I have been on the phone 40mins- I havent been this stressed for ages!! 😰',?
+'@VodafoneUK This is getting silly now.  Have had a text saying will shortly receive a tele call from 03333048065 to… https://t.co/NPQV2v2WeB',?
+'@VodafoneUK Sim only.Paying £13 per month.8GB 600 minutesAll you can eat texts.They say 4G but, always 3G.Can you beat that?#TopThat',?
+'@VodafoneUK Id prefer to speak to someone on the phone hence why I called, can someone be in touch from the leaving department not upgrades',?
+'@VodafoneUK Hello. Still not had this email and dont want to miss out!',?
+'@VodafoneUK -looks like they are still sleeping! OMG, Im talking to someone who doesnt have power- no one has power....',?
+'RT @mobileworldlive: The quicker we can get those trials up and running,experiment with #5G in real world, the better” @VodafoneUK CEO htt…',?
+'RT @VodafoneUK: @SandyP1874 Sorry to hear this Sandy, please give our Support line a call on 08080 034 515. Theyre available between 8am a…',?
+'RT @PennonGroup: Fibre to home is 70% in Spain - only 2% in the UK. Action for connectivity and infrastructure is needed says @VodafoneUK…',?
+'@VodafoneUK are you having problems with voicemail? Just tried to switch mine back on but message says it’s can’t be done at the moment?',?
+'Did you read this...!? https://t.co/uV72FA5uF7 @EE @ThreeUK @ThreeUKSupport @VodafoneUK',?
+'@VodafoneUK A further 10 days @VodafoneUK still NO Refund! @Ofcom am I entitled to further compensation?Almost… https://t.co/ls17shelFV',?
+'RT @8amy232: @vodafone @theresa_may @VodafoneUK @Ofcom @BBCNews reports #Vodafone cheat customers by continuing to charge for phones https:…',?
+'@vodafone @theresa_may @VodafoneUK @Ofcom @BBCNews @lynbrownmp @SkyNews @OmbudServices @CitizensAdvice so #Vodafone… https://t.co/g49PA925rf',?
+'@vodafone @theresa_may @VodafoneUK @Ofcom @BBCNews @lynbrownmp @SkyNews @OmbudServices @CitizensAdvice TO REPEAT… https://t.co/A5qlhB9WDV',?
+'RT @VodafoneUK: Huge 20GB data, unltd mins &amp; texts with data-packed SIMs. The future is exciting. Ready? https://t.co/QXuq6MPzq8',?
+'@VodafoneUK I have and it tells me it’s all “invalid”',?
+'@vodafone @theresa_may @VodafoneUK @Ofcom @BBCNews @lynbrownmp @SkyNews @OmbudServices @CitizensAdvice #Vodafone ig… https://t.co/2W1nxdyDeO',?
+'@vodafone @theresa_may @VodafoneUK @Ofcom @BBCNews reports #Vodafone cheat customers by continuing to charge for ph… https://t.co/3h420GFcIf',?
+'@VodafoneUK I need to call &amp; speak to the complaints department. Im so annoyed!',?
+'RT @HywelPlaidCymru: @anorakgirl @O2 @EE @ThreeUK @VodafoneUK Tamsin  had a meeting with BT yesterday-seems they could meet us all at Pa… ',?
+'@VodafoneUK Well done for not missing a trick!  Id need to know what you could offer really?',?
+'@VodafoneUK My pensioner mum has been customer of yours for 16 years. On Sim Only deal and OneCom persuaded her to take out mobile contract',?
+'@VodafoneUK  E-mail sent to your C.E.O., perhaps he can get things moving.',?
+'Trying the @VodafoneUK complaints number to see if I can get my money back. Im sure if I paid them late theyd charge me a Fine.',?
+'@VodafoneUK Hi, why is my upgrade offer a lot worse than a new customer offer. https://t.co/3iSQ8ath87',?
+'@VodafoneUK Eh1 2dh I’m not the only one who’s had the problem',?
+'Ok @VodafoneUK the 90s were cool but why is your data service acting like its still there. 4G?? Havent even got a lowercase g. HELP!',?
+'RT @PennonGroup: Looking forward to @GreatSW_uk 2nd annual summit.#BackTheSouthWest @VodafoneUK @WMNNews @HeartofSWLEP @CBItweets https:/…',?
+'@VodafoneUK further to my DM 9 hours ago, I still have no service. Please can someone fix it or contact me ASAP',?
+'@VodafoneUK 2/2 to keep phoning you. Yet again promise of call back within 48 hours hasnt happened. Im dreading t… https://t.co/FSOM9mpN0d',?
+'@VodafoneUK Im not looking to  be helped Im saying people shouldnt take contracts out with companies that cont… https://t.co/zMI2RpxrQn',?
+'RT @PennonGroup: Looking forward to @GreatSW_uk 2nd annual summit.#BackTheSouthWest @VodafoneUK @WMNNews @HeartofSWLEP @CBItweets https:/…',?
+'@AmyLisaMcDonald @VodafoneUK @virginmedia In other flats in our block.. so something needs sorting out',?
+'@vodafoneUK when can we expect our broadband routers supplied by you to have the KRACK wifi vulnerability patched?',?
+'@VodafoneUK I can only compare your internet speeds to tits on a fish......useless 😡 why did we ever switch I ask myself??',?
+'@VodafoneUK On another indefinite hold. I hate you all',?
+'RT @PennonGroup: Looking forward to @GreatSW_uk 2nd annual summit.#BackTheSouthWest @VodafoneUK @WMNNews @HeartofSWLEP @CBItweets https:/…',?
+'When ur @VodafoneUK wifi has barely worked in 2 days but u cant call them as the @VodafoneUK reception in ur house is 2bad to make calls 😡',?
+'@VodafoneUK why have you taken 2 transactions out of my account? I topped up 20 and there is a 20 transaction and a 1 one?',?
+'RT @PennonGroup: Looking forward to @GreatSW_uk 2nd annual summit.#BackTheSouthWest @VodafoneUK @WMNNews @HeartofSWLEP @CBItweets https:/…',?
+'@VodafoneUK are you really threatening to send debt collectors to my house to pay back money that I dont owe you? I cancelled my contract-',?
+'My @VodafoneUK bill is now over £100 this month because @virginmedia failed to install our Wifi 3 times!! Absolutely ridiculous!!',?
+'RT @glovelace: Mobile ops @ThreeUK @VodafoneUK @EE charging customers after handset contracts end will be next mis-selling scandal. https:/…',?
+'@CurwenLiam @VodafoneUK Make sure you get a case mate. They’re slippy as fuck with the back being glass. They slide off every surface  😂',?
+'@VodafoneUK We had to go via the ombudsman to get anywhere, thankfully the contract has now ended and my son is voda free 😊',?
+'Anyone remotely surprised? @EE @VodafoneUK @ThreeUK Mobile companies overcharging customers after contracts end - https://t.co/eRO3V2LGnO',?
+'@BBCBreakfast I had this argument w .@VodafoneUK this yr: they used to ring to offer upgrade but now are happy to take £ on the sly instead',?
+'@VodafoneUK Ok but I’m not holding my breath that this won’t be another wasted 20 mins of my life.',?
+'@VodafoneUK Ask Neil Blagden to respond to my letter and for the manager call back which was requested. Jane Hinton',?
+'@quidwise @VodafoneUK Well the Internet isnt working and they keep saying it will be working but wait 2 days, then… https://t.co/lFhh0OBdVw',?
+'@VodafoneUK Muki, this is not acceptable. I was told it would take 24 hours to sort this issue, its now been well… https://t.co/vJpUM0nA47',?
+'@VodafoneUK is it really ok to keep your customers on hold for an hour?  Please can someone get in touch asap as I… https://t.co/ugHi2he3g3',?
+'@quidwise @VodafoneUK And this is via chat, calling them since Saturday etc lol they even tried blaming @bt_uk for… https://t.co/wQtS2vyIrq',?
+'@VodafoneUK And kept waiting for 10 mins for ‘live’ chat #shambles',?
+'RT @PennonGroup: #connectivity is one of the biggest drivers for growth @VodafoneUK https://t.co/XZzjGxc9gL',?
+'11 year with @VodafoneUK. Will be going elsewhere when my contract is up.   3 weeks later and im still waiting on a manager contacting me',?
+'RT @katieheffe: @NuriaCorbi @LynnFauldsWood @EE @VodafoneUK Vodafone have told me it can take up to 10 working days to obtain the unlock co…',?
+'The thing that really matters is that the UK becomes a leader in next-generation networks” @VodafoneUK CEO #5G  https://t.co/vRA0B0zHHR',?
+'@VodafoneUK Its a simple question that affects all customers https://t.co/t9Y16aJQ7K',?
+'#connectivity is one of the biggest drivers for growth @VodafoneUK https://t.co/XZzjGxc9gL',?
+'RT @katieheffe: @LynnFauldsWood @EE @paterson_jill @guardian def not @VodafoneUK, never get a straightforward answer to anything/satisfacto…',?
+'#UK @VodafoneUK chief #NickJeffery hits out at #5G, #fibre challenges #brexit @ofcom https://t.co/V3Eob82ATE',?
+'@LynnFauldsWood @NuriaCorbi @EE do it in good time, I cocked up dates as @VodafoneUK website v unclear and now have to wait 2 more months 😭',?
+'@katieheffe @LynnFauldsWood @NuriaCorbi @EE @VodafoneUK Its disgusting that you have to pay to get your phone unlo… https://t.co/IzUFPow45T',?
+'No home Internet for a week, multiple conflicting explanations from agents and broken promises. Just a normal day with @VodafoneUK #thieves',?
+'Ok! It is even worst than I thought, I cant send message, nor call anyone nor have access to data. @VodafoneUK I need a fix now!',?
+'Hey @VodafoneUK - Ive encountered some bad service in the past, but you guys are really without equal. Seriously, youre the worst.',?
+'@VodafoneUK This could have been resolved already if i took out the contract earlier. But i was guarenteed it wouldnt be necessary',?
+'@VodafoneUK @emziie_xx23 Why over help when all you do is make excuses and no resolution',?
+'RT @katieheffe: @LynnFauldsWood @NuriaCorbi @EE @VodafoneUK and it can take a while to get your phone unlocked if needed',?
+'RT @lorimerDevon: Put the domestic agenda first says @RainNewtonSmith @CBItweets @PennonGroup @SWGrowthService     @WMNNews @VodafoneUK htt…',?
+'@VodafoneUK Sorted it now. Turns out that its you who owes me money, not the other way round😂',?
+'Well what a way to start a Friday @VodafoneUK  managed to totally irritate me - dont overcharge me when you didnt… https://t.co/t2zr5KOT9k',?
+'@VodafoneUK @AJacobs143 By help they mean offer excuses and no resolution',?
+'@SuperDerby88 @GazMarsden @dcfcfans @VodafoneUK If I wanted to cash out on a bet I’d be screwed',?
+'@tom_ryland @VodafoneUK @jonny_smillie',?
+'I have just calculated Ive been on the phone to @VodafoneUK for over 16 hours over the past 5 weeks trying to resolve an issue #wankers',?
+'@vodafoneuk and stop chasing me for it too!',?
+'@vodafoneuk you keep trying to charge me for things I shouldn’t be and I can’t even see my bills. Close down the debt immediately',?
+'RT @SarahLudford: Mobile companies overcharging customers after contracts end. Happened to me. Sharp practice by @VodafoneUK https://t.co…',?
+'@BermudaBat @BBCNews @VodafoneUK Been with @VodafoneUK since I first had a mobile phone. Not going to stay when thi… https://t.co/7EoBHJpgMs',?
+'@VodafoneIN time to expose voda India on every SM so even they are shamed internationally @VodafoneUKhelp @VodafoneDestek @VodafoneUK',?
+'Mobile companies overcharging customers after contracts end. Happened to me. Sharp practice by @VodafoneUK https://t.co/nOotSsL4mX',?
+'@VodafoneUK The fact you didnt get back to me 2weeks after diagnosis  Complaint 1, then i authorise repair - u lose… https://t.co/M0NMBUGtse',?
+'RT @GlobalTelecoms: .@VodafoneUK launches zero-rated data passes &amp; capped pay-as-you-go service offerings: https://t.co/oY5uM5UZ6g #Vodafon…',?
+'@VodafoneUK for 2 months you have been taking money for a service you are not supplying. Customer services have lied 5 times. .......',?
+'@Graceexxxxx @rhnathan @VodafoneUK They are terrible anyway',?
+'@vodafoneuk is the worst company.  I seeth everytime I think about giving these jokes money',?
+'@VodafoneUK w8 2weeks for replacement Complaint 3, walk into store 2day to.complain and you say u found it but neve… https://t.co/iIkqslCGe0',?
+'@VodafoneUK Much like the internet in my house it doesn’t work 👀 https://t.co/xGavEnc9eA',?
+'RT @terryfazer: So I can get signal on a car park according to @VodafoneUK but can not get signal at a busstop worst phone company ever.',?
+'@VodafoneUK I was looking for an upgrade, that we agreed on, she then went through the terms &amp; conditions which was… https://t.co/TeKt9UKcHZ',?
+'@VodafoneUK getting charged to unsubscribe to spam text questionnaires. Not happy. I PAY FOR THEM TO PROVIDE ME WIT… https://t.co/ChbC5PEOtq',?
+'@VodafoneUK Just trying to swap a number from one account to the other. Trouble is we live 26miles away from neares… https://t.co/wG08PWAQJ2',?
+'@rhnathan @VodafoneUK Ive just spent 3 hours on chat to them 🙄 regards an upgrade and nhs discount, 15% for NHS. N… https://t.co/W31Ke2feuF',?
+'RT @BirkettsIPTech: Looking forward to #CBIInnovation @CBItweets with co-corporate sponsors @VodafoneUK @HSBCUKBusiness @AnglianWater @TWI_…',?
+'RT @MECideas: Well done team @MECUK - congrats on the two @pm_awards for brilliant work for @VodafoneUK #IPMA17 https://t.co/HH4xkpXZzC',?
+'@VodafoneUK You couldnt do the repaie because you lost the phone - what you should be doing is getting a member of… https://t.co/Zhr1TTCZ2E',?
+'@Rollsie7 @VodafoneUK @SkyUK 10 gigs fuck all, 12 month is nice tbf, sure ee do yearly upgrade too',?
+'@Daws___ @VodafoneUK @SkyUK 10gig for £69 on a 12 month contract tho',?
+'@VodafoneUK hello there how come my friends mum cant text or ring anyone or receive either?',?
+'@TMobileHelp @VodafoneUK whats your opinion on this, what song should @pbfl81 sing whilst in shower wearing Mickey… https://t.co/Su7hScXBSW',?
+'@VodafoneUK How come it takes 60days to get my broadband free gift.',?
+'@VodafoneUK Ive now received an email welcoming me to a new 24 month contract. My DM is again going unanswered...w… https://t.co/QpREcXExi6',?
+'RT @VodafoneUK: Super-boost your phone. Get a massive 40GB 4G UK data. The future is exciting. Ready? https://t.co/WjdFz3jovb',?
+'@lesarephina @VodafoneUK Oh no Sara! Drop us a DM and well get your data up and running 😎 Lorna',?
+'@VodafoneUK @VodafoneUKhelp No',?
+'@VodafoneUK Not even an acknowledgement let alone an apology?',?
+'@VodafoneUK Said there was nothing they can do and sent me BACK to phoning up. now Im getting a new phone on MONDA… https://t.co/4AjphNPeYC',?
+'.@VodafoneUK launches zero-rated data passes &amp; capped pay-as-you-go service offerings: https://t.co/oY5uM5UZ6g… https://t.co/dzeDMRPZ8p',?
+'@VodafoneUK why does my signal constantly keep dropping out on the train from London to Surrey? iPhone 7 Plus',?
+'I see @VodafoneUK not even selling Pixel 2 XL?! Theyre making this next upgrade VERY difficult for me by not having a good selection. :(',?
+'@VodafoneUK Can you advise how long it is going to be? I was told it would be disconnected to pay as you go immedia… https://t.co/7xGYb18AyK',?
+'@VodafoneUK I couldnt access that...',?
+'#UnboxYourPhone Samsung Galaxy S8 Plus, from tariffs of £42 p/m @VodafoneUK via @EzMobiles https://t.co/RbUJd9J8k4 https://t.co/DSwH5AFPiS',?
+'@VodafoneUK Thats no help. I want to know how Im using 1Gb data per day suddenly when Ive been using below 8GB a… https://t.co/4qUVtPewPH',?
+'Great I have change from payasyougo to monthly contract with @VodafoneUK and now I cant connect to the internet at all. Thank you!',?
+'RT @DeanStamford: 2 more promised dates passed, still @VodafoneUK have not supplied #broadband and #phone services that were supposed to st…',?
+'@VodafoneUK can expect some significant legal action. #neilblagden. After one year and no resolution. Customer disservice',?
+'@VodafoneUK Would need to be couple of hundred of tweets and I’m confused myself with how my account is totally mud… https://t.co/gSc0gQ7uj1',?
+'@VodafoneUK You said you had reset my log in details and I could re-register. This is the result. https://t.co/hIopHpbdSA',?
+'RT @DeanStamford: I apologise to everyone inconvenienced by lack of voicemail at the Vicarage. Sorry. @VodafoneUK have given 7 dates now an…',?
+'PARTNER: @VodafoneUK looks at the five trends helping to drive digital change: https://t.co/iFb0vitL2W https://t.co/eNy9ks36zu',?
+'@VodafoneUK @VodafoneUKhelp Im not asking for much, just a rough idea of when you expect it in so I can make judge… https://t.co/jsZrlxNFdR',?
+'disappointing and a lack of courtesy and respect to your customers to offer no information on the Apple Watch @VodafoneUK @VodafoneUKhelp',?
+'@VodafoneUK It was Buchanan st. In Glasgow. I was told on sun that they may have some in on Monday but now Ive been… https://t.co/IGCuZH9SBA',?
+'@VodafoneUK Yes send your staff to English courses and train them on your systems. Also give me a massive compensat… https://t.co/prG5om0h7E',?
+'Congratulations @VodafoneUK, who have been shortlisted for the #EDA17 @NatWest_Help Company of the year award. https://t.co/gltLbNVvRs',?
+'2 more promised dates passed, still @VodafoneUK have not supplied #broadband and #phone services that were supposed to start 5 weeks ago 😡',?
+'@VodafoneUK Hi Manda. I just answered the questions for one of my followers who wanted to have some information abo… https://t.co/i9xtL64PeF',?
+'@VodafoneUK broadband service let down by @OpenreachGB waited a most of today and didnt even get told by your engineers what was wrong 👎 🤔',?
+'@VodafoneUK Out of commitment and still asked me to continue paying monthly plan and wait for 1 more month to change to pay as you go',?
+'@davidebrady @EE @VodafoneUK Really? I’ve had far worse issues with EE at work with customers complaining of bad se… https://t.co/G1jvipjac2',?
+'@VodafoneUK Im in work at the moment so unable to use any help you may be able to offer me.',?
+'@Kazjitsu001 @VodafoneUK Hello Kazeem, I am very sorry about this could you please DM us your parcel number. [Izzy]',?
+'@VodafoneUK Any update?',?
+'Please, @VodafoneUK can you help me? I am truly at my wits end trying to get a serious complaint resolved.',?
+'@VodafoneUK I wish I’d not signed a contract with @VodafoneUK. Poor network &amp; Wi-fi calling does not support SMS, w… https://t.co/2BcJ0xpm8N',?
+'@VodafoneUK Shit, crap, shit, crap, shit crap',?
+'Hello @VodafoneUK, when I request a PAC code, why not unlock at same time? Why keep wasting peoples time? #poorservice',?
+'@VodafoneUK Sent',?
+'@VodafoneUK I’m unable to make any outbound calls in the Hove area. This had been ongoing for over a week now. 😡',?
+'@VodafoneUK yeah i have had the fingerprint unlock mode on my phone since i got it but all you have to do is swipe… https://t.co/U3Cch4R7aM',?
+'@VodafoneUK So I did DM @VodafoneUK and no surprises that there was no action taken...service once again speaks for… https://t.co/SnQZRKlhxO',?
+'@VodafoneUK 1 bill sent £137, another bill sent 4 days later for £456!!!!!!!!! Shocking. Probably because contract runs out in 1 month!!',?
+'@VodafoneUK just said go to the store with your issue as he couldnt do anything  #helpless',?
+'@VodafoneUK Worse 3 week experience with you last month, phone didnt work for 2 weeks, lied about discount and com… https://t.co/OMzPofqoCJ',?
+'@VodafoneUK Have done. Is anyone checking the DMs? Thats nearly an hour and a half waiting for a response',?
+'@VodafoneUK how can you justify a free early upgrade then have the cheak to charge £153 24 hours later cause the day befofe was a one off 😒',?
+'@EE I will wait for @VodafoneUK  to bring it out far better reliable network',?
+'@PamForde @VodafoneUK It worked for incoming and outgoing calls for me boosted me to 4 bar signal in my house',?
+'@DaleksGamertag @VodafoneUK What is a sure signal box? 3 has a wifi based system which enables me to make calls w… https://t.co/iUDeGgIhfB',?
+'@DaleksGamertag @VodafoneUK Thanks, J, problem is with 3 but Vodaphone honest enough to say they couldnt guarantee… https://t.co/OMVHXV23xp',?
+'My @VodafoneUK contract is up for renewal, but they seem expensive. Any suggestions for a cheaper alternative. It’s for 3 phones!!!',?
+'Goodbye @EE hello @VodafoneUK  😊',?
+'@VodafoneUK why are you ignoring my DM’s? You’ve cut off my contract so I can’t make calls or texts!? Why have you not done as promised?',?
+'“Were now at a point where we’ve got a platform where we can start to innovate commercially @VodafoneUK CEO https://t.co/YqY1QZ3CxG',?
+'@VodafoneUK when complaint your staff was not interested and throw the handset and disconnect',?
+'@VodafoneUK i am afraid to open monthly pay account with Vodafone https://t.co/b4JJedvjF0',?
+'@VodafoneUK and #UtilityWarehouse I think you may just push me over the edge &amp; put me out of business too #nowifi #nophone #pillartopost',?
+'@VodafoneUK We are disconnected and have been since the start of the week 😳',?
+'@VodafoneUK @AdamParsons1 sounds like at least 3 experiences I have had with vodafone too in the past - weeks and i… https://t.co/h01Db3Bh7i',?
+'@VodafoneUK Hi Ben, yes the deal tesco have is for the s8 with free gear watch for £35 a month. I pay £29 at the mi… https://t.co/5YnyLckAEQ',?
+'RT @mpntod: Listening to Can you dig it. Not a @VodafoneUK flashback. Im at the @IQ_UK to talk about #menshealth for @MensHealthForum htt…',?
+'Retail Advisor, @VodafoneUK #WestSussex. Info/apply: https://t.co/0jRd563I8M #Crawley #Sussex https://t.co/GAP0UwmGmt',?
+'@VodafoneUK Ive been disscounected from live chat about 8 times over the passed few weeks and told there was no co… https://t.co/kGa44dvnKp',?
+'@VodafoneUK Damn, that does sound good... https://t.co/qwuhvaOoyB',?
+'@VodafoneUK Have formal complaint submitted but everything just keeps going wrong 😟 I think involving more people w… https://t.co/CxMiXm0P2B',?
+'RT @MutliRaceMan: @Delveyboy @VodafoneUK I would never go back to Vodafone. I ha a nightmare year with them a while ago and in the end I ju…',?
+'RT @JCPinWestSussex: Retail Advisor, @VodafoneUK #WestSussex. Info/apply: https://t.co/0jRd563I8M #Crawley #Sussex https://t.co/GAP0UwmGmt',?
+'@VodafoneUK Absolutely shocking service AGAIN. Promises made and money taken without authority!!!!',?
+'Listening to Can you dig it. Not a @VodafoneUK flashback. Im at the @IQ_UK to talk about #menshealth for… https://t.co/EPVopK9uuS',?
+'@VodafoneUK I’m trying to get my plan updated as my year contract finished but no one reduced the cost.. he didn’t… https://t.co/xF673h30ii',?
+'@VodafoneUK it’s been an hour now for your team to reconnect me to another team.. is it going to take much longer?… https://t.co/yFf8wCz2fc',?
+'@VodafoneUK An engineer needs to come and check they said but I have a feeling it a faulty router. 😕',?
+'@VodafoneUK down yet again. Ffs 😠😤',?
+'@VodafoneUK Hi Manda, do you know every (or any) postcodes you travel through on your commute to work?',?
+'@Cbubbs1 @VodafoneUK @plusnethelp We are BT retail and operate as a separate company from Openreach. ^Aisling',?
+'@VodafoneUK I will do, Ill be there at 9am. And not leaving without it sorted!!',?
+'@PrepperVetUK @ThreeUKSupport @VodafoneUK @EE They are tracking you',?
+'@VodafoneUK Its stopped now but thinking about it is still making me laugh 😂😂 she was so lovely, so patient! I wish Id got her name!',?
+'RT @Lokster71: @VodafoneUK Ive paid it. But your automatic system didnt seem to like my card even though there was funds there. So it too…',?
+'@BTCare @VodafoneUK 1) The service is now with plusnet who say we cant have broadband til openreach connect it.',?
+'@VodafoneUK *home wifi',?
+'@VodafoneUK Yes I have',?
+'Fed up of no signal....again.  @VodafoneUK. Third time this week. What am I paying line rental for?',?
+'I can SEE the cellphone tower!Badly planned &amp; Poorly divided - The mobile cell coverage of UK is shocking.@ThreeUKSupport @VodafoneUK @EE',?
+'RT @AdamParsons1: My @VodafoneUK nightmare day 3.  7 conversations, over 5 hours. Voda denied that my wifes number existed even tho she us…',?
+'@VodafoneUKhelp Hi @VodafoneUK are you there? Ive been on hold for a manager for 20mins Ive heard September song… https://t.co/ES2btWoPhb',?
+'The future is indeed exciting.. @tech_mahindra showcases @PininfarinaSpA H2S Concept Car @VodafoneUK annual ‘RoadSm… https://t.co/DFAshZbhfI',?
+'@VodafoneUK Al are you able to help or is 20mins since the last response adding to the poor standard of customer se… https://t.co/TyixBBZ4XM',?
+'@VodafoneUK I don’t believe a word you say',?
+'@VodafoneUK very disappointing response time. This has been an issue for 2 weeks that nobody has been able to sort!',?
+'@VodafoneUK @tescomobile guarantees no mid-term contract price hikes. Vodafone keeps making excuses why they wont… https://t.co/7Arubn5jqp',?
+'@rachelburden @AdamParsons1 @NickGarnettBBC @VodafoneUK No. They are rubbish.',?
+'@VodafoneUK The fact that I havent received it. Twice. That would be a pretty major problem.',?
+'@VodafoneUK Yep. Ever since I switched',?
+'@VodafoneUK really? I’m amazed that nobody at Vodafone is aware. Why can’t I just collect one from store?',?
+'@VodafoneUK @AppleSupport Have tried clearing cookies and rebooting the phone @AppleSupport',?
+'@VodafoneUK Had my account reset still cant do anything due to Were working hard to fix the issue, so please try again later.',?
+'#UnboxYourPhone Samsung Galaxy S8 Plus, from tariffs of £42 p/m @VodafoneUK via @EzMobiles https://t.co/RbUJd9J8k4 https://t.co/vUqrSaSDRd',?
+'@VodafoneUK The account holders been on the phone constantly the past few days/weeks and the engineer been out but still no luck.',?
+'@VodafoneUK How? With just my postcode and first name?',?
+'@VodafoneUK but without knowing when stock is due, I don’t know which is more beneficial.',?
+'@VodafoneUK Why would the live chat not say that rather than tell me the agents are assisting others. If they are n… https://t.co/aKe2vGhs5n',?
+'@VodafoneUK why is my phone bill £66 when I upgraded to a lower contract... once again the upgrades gone wrong!  😡 https://t.co/uGpQbGhHBk',?
+'RT @HywelPlaidCymru: I’ve been advised by both @O2 and @VodafoneUK that coverage in the #Llanberis area has been restored. @LlanberisMRT -…',?
+'@RossiHancock @VodafoneUK Wheyyyyyyyy 👉👉',?
+'@VodafoneUK And why did I have a complete strangers email address added to my account?',?
+'@VodafoneUK 😞😞 I’ve tried that with no joy too',?
+'@VodafoneUK Like the guy who put me on hold for 25 minutes and wonders why I hung up? You really do make the simple… https://t.co/cxD0a1xYcu',?
+'@ntitawards @Mainoneservice @VodafoneUK @Vodacom111 @Rackcenter @CWGAfrica @CWGChoices @naijatechguide @IBMcloud @BudgITng All hail CWG!!!',?
+'@VodafoneUK it’s taken you 3 weeks to fail to close a returned phone order, that we never received! 14 days with your back office team !',?
+'@VodafoneUK once again you are an absolute joke of a provider!@financialombuds will sort it! Constant lies to customers with no CS at all!👎🏼',?
+'@VodafoneUK Center. Today i got a text ssying it was ready to collect. All i wsntef to know if it was back in store… https://t.co/pgP6DqniRj',?
+'@VodafoneUK My name is ELLIE not Allie. Further proof that you literally cannot get anything right! 👏👏👏 https://t.co/McTv52lbtJ',?
+'@VodafoneUK your 30 day unlocking policy is a joke! No other network does this. I’m not a fraudster and your NUC team are uncontactable!! 😡',?
+'@VodafoneUK 48 hours later still not sorted any chance I can speak to somebody who can actually help? Awful custome… https://t.co/7RUqmxgsJ8',?
+'@VodafoneUK Considering the amount i pay for my monthly contract and the 280 i am paying to get fixed i dont think… https://t.co/FhORdA0BfF',?
+'@VodafoneUK Unless you have a way of giving me 35 minutes of my life back you cannot, John.',?
+'@VodafoneUK Broadband - Day 13: No router/no connection. Apparently @DPD_UK aren’t delivering the routers Vodafone request. 4th time lucky?',?
+'12m ago I was unappreciated in a job where I was constant marked down. Today at @VodafoneUK I’m a specialist &amp; the… https://t.co/sb9H7rhRLv',?
+'@VodafoneUK  Impossible to speak to complaints dept.',?
+'@VodafoneUK Completely irrefutable Bad Service.Vodafone has cost me 100s of £££ due to incompetence#Badservice #watchdog #FCA @TheFCA',?
+'@VodafoneUK @Ofcom My whole family has phones through Vodafone I am now stopping the direct debit until I get my phone back',?
+'@VodafoneUK Congratutions for overtaking BT in the top spot for worst ever customer service. Never did I believe such incompetence existed',?
+'@VodafoneUK It happens at home in Derby and at work in Nottingham.',?
+'@VodafoneUK I have done...',?
+'Rapidly approaching end of 2017 and network reception north bound on the Jubilee line from Finchley Road is non existent on @VodafoneUK',?
+'@VodafoneUK It seems Vodafone are struggling to put me on my old contract. They cant seem to change me back. Can u help',?
+'@VodafoneUK hello, just received an upgrade but no new SIM card... is that normal?',?
+'@VodafoneUK Or you can wait for the guy who solemnly promised to call back in an hour because we want to help you. That was two days ago',?
+'@VodafoneUK was refused repair under warranty by instore staff. i explained consumer law to them. was sent away wit… https://t.co/5tXvaRQonc',?
+'@VodafoneUK i have vod.in turkey.last month i give a automic payment via Creditcard.in turkey, they closed my dialing,for opening want 14tl',?
+'@HywelPlaidCymru @O2 @VodafoneUK @LlanberisMRT Yndi diolch Hywel',?
+'@KARRISON_MD @VodafoneUK @O2 Sad to say O2 are no better. Try giffgaff I’ve found them very good. They use the O2 network',?
+'@VodafoneUK Dont need a list of charges, need an explanation of how u justify charging 55p for what used to b a local call rate (or free)',?
+'@VodafoneUK @Ofcom The response I have had from Vodafone has been horrendous. Ive had no phone, No Sim no contact since 7th October',?
+'PARTNER: **Northern Ireland readers** @VodafoneUK offers Stormont solutions for digital government. Full report:… https://t.co/29fU6qcA0r',?
+'RT @VodafoneUK: @iThompzinho @DPD_UK We always deliver the goods Georgey 😉 Ben',?
+'@VodafoneUK Done.',?
+'@VodafoneUK Fuck Off Vodafone, You SUCKK!!!!!!',?
+'@VodafoneUK Still waiting.....',?
+'@VodafoneUK Ive tried your phone customer services and they cant help me because Im not my husband...',?
+'wtf  my phone has been delivered already. cheers @VodafoneUK @DPD_UK',?
+'@VodafoneUK I have sent a full message through accordingly.',?
+'RT @TwitterMktgUK: Find out how @VodafoneUK used Twitter Video to scale its sponsorship of Capital’s Summertime Ball. #CapitalSTB https://t…',?
+'Cant believe after repeatedly informing @VodafoneUK  to deliver to work add. still delivering to hme add @DPD_UK CRAP Service all round !',?
+'@VodafoneUK Sim Only High Data, Also able to roam outside EU #SHOWMEADEAL',?
+'@VodafoneUK so, when you ring vodafone for technical help there tech help answer is TAKE THE HANDSET TO YOUR NEAREST VODAFONE STORE #USELESS',?
+'RT @VodafoneUK: Super-boost your phone. Get a massive 25GB 4G UK data. The future is exciting. Ready? https://t.co/HINQCzGnRR',?
+'@VodafoneUK Any idea when there will an update for my S7 as I have been having phone call issues ever since the last update',?
+'When @VodafoneUK charge you £15 for ONE text message and 2 x ONE minute phone calls from abroad #ripoff #joke #greatcustomerservice',?
+'@VodafoneUK so Vodafone have been robbing me £6 for an extra 1GB I havent been using @Ofcom for an offer they said I can have but 1/2',?
+'@VodafoneUK are a company full on liars I’m in a 30 day cooling period on my contract allows me to cance at anytime but they want to charge',?
+'@VodafoneUK just awful service from your team promised discount not applied me doing all the chasing 7 calls so far&amp; counting#poor #leaving',?
+'@VodafoneUK Different reasons given by your operatives for not applying discount. Inconsistent. Wife not happy.',?
+'@EE been with @VodafoneUK for over6 years, every time I upgrade my phone it’s a hassle n I don’t get the best so what do u guys offer for me',?
+'Really disillusioned with @VodafoneUK no recognition of customer loyalty whatsoever. Might call @O2',?
+'@VodafoneUK Called to ask about cancelling early. The advisor couldnt work prices out correctly and hung up on me! #greatservice #retention',?
+'@VodafoneUK When did Vodafone come back? I thought you disappeared with myspace, video tapes and nokia?',?
+'@VodafoneUK Ahhhh shoot, ok, I’ll head down to my nearest branch ASAP',?
+'Cant believe how long its taking @VodafoneUK to process my phone order even though Ive signed the paperwork. 48 hours + still unconfirmed',?
+'@VodafoneUK iPhone 7plus or 8plus.... Dont want to pay over £45 really a month. But want a decent amount of data pls 👌🏼',?
+'@VodafoneUK Does this also work for apps like snapchat and google etc?',?
+'@lucyshut @O2 @EE @VodafoneUK 😂 more interested in buying gig venues! What phone you going for?',?
+'RT @StartUpDonut: Cant do business without your phone? Stay in contact with Business Extra from @VodafoneUK https://t.co/Rhva0mVWHg',?
+'@ntitawards @Mainoneservice @VodafoneUK @Vodacom111 @Rackcenter @CWGAfrica @CWGChoices @naijatechguide @IBMcloud @BudgITng CWG all the way',?
+'@ntitawards @Mainoneservice @VodafoneUK @Vodacom111 @Rackcenter @CWGAfrica @CWGChoices @naijatechguide @IBMcloud @BudgITng CWG ✅',?
+'RT @TwitterMktgUK: Find out how @VodafoneUK used Twitter Video to scale its sponsorship of Capital’s Summertime Ball. #CapitalSTB https://t…',?
+'@VodafoneUK Dont buy your phone from @VodafoneUK cos they will block you from going to another provider',?
+'@VodafoneUK As I said in my message. Every interaction I’m charging you £50 for. Every hour I wait £10.',?
+'@VodafoneUK How hard is it to give a customer a call',?
+'@VodafoneUK DM sent',?
+'@ntitawards @Mainoneservice @VodafoneUK @Vodacom111 @Rackcenter @CWGAfrica @CWGChoices @naijatechguide @IBMcloud @BudgITng Definitely CWG.',?
+'@lucyshut @O2 @EE @VodafoneUK Easier to not have a phone!',?
+'@VodafoneUK She is after the Huawei P10, only around 1/2gb of Internet',?
+'@VodafoneUK @colinfreeman99 No need for this additional call package. Banks are banned from using these premium rate numbers.',?
+'@VodafoneUK this is after being lied to whilst making a payment this morning , absolutely disgusted , I will be speaking to @Ofcom',?
+'@VodafoneDestek sizin bu teknik ekip ingiltereden yürüyerek mi geliyor acaba ? @VodafoneUK',?
+'@isamutlib @karinagovindji @VodafoneUK Hi Isa, Karina is speaking on Day 2 on our Learning &amp; Development stage at 11:35 am.',?
+'I’ve ❤️ having 2 stand in the garden as only place my phone works at home @VodafoneUK, when will rural coverage be rolled out',?
+'@ntitawards @Mainoneservice @VodafoneUK @Vodacom111 @Rackcenter @CWGAfrica @CWGChoices @naijatechguide @IBMcloud… https://t.co/F4VjaJhsKL',?
+'@VodafoneUK Clearly you haven’t looked then.',?
+'@MissMaheady @VodafoneUK Worst ever !',?
+'@VodafoneUK i’m supposed to get spotify premium with my contract but im being prompted to pay £9.99/ month for it Help',?
+'@VodafoneUK I have been on the phone for half an hour. I now have to go out so I want someone to call me back and get this sorted.',?
+'@VodafoneUK messaged you last night about my £73 bill that competitor offering service for £20...could even be both… https://t.co/xOwMOIBuPI',?
+'@VodafoneUK But you still wont pick the phone up, your offers are nothing more than I already stated',?
+'@VodafoneIN  I hv been locked for talking Care Exucative Wow What a great services @VodafoneUK .If you failed to solve issue , block custmr',?
+'@erinscott15 @VodafoneUK They sent it here?',?
+'Im so looking forward to Thurs when @VodafoneUK will not have ONE excuse left to giving me my NUC (but I bet they… https://t.co/tlG7Gw8p5G',?
+'When the sales assistant is practically asleep on the desk in @VodafoneUK #camberley #vodafone #sorrytodisturbyou',?
+'RT @ainsley24: @VodafoneUK you guys keep putting the phone down on me when Im trying to get my broadband back on!',?
+'@VodafoneUK when is this going to be over please? Ive been trying to upgrade my contract for days https://t.co/Plw4P2F8Z5',?
+'RT @VodafoneUK: @ObiwanCONobi Our advisers may be busy chatting to other customers, we can only advise to try again later. 1/2 Kez',?
+'@HRTechWorld @karinagovindji @VodafoneUK When is Karina speaking?',?
+'RT @NorthPowerWomen: New Event @VodafoneUK &amp; Northern Power Women present ReConnect 9 November #Returners #CareerBreak @NPHinfo https://t.c…',?
+'You have become the most unreliable bastards the past month @VodafoneUK',?
+'@vodafoneuk is your broadband down tonight or what?',?
+'@VodafoneUK business broadband issues in LA4? Can not connect at all',?
+'I take that 7 back...@VodafoneUK https://t.co/X6SqgpAiAo',?
+'To give @VodafoneUK their due, whilst they look into my broadband issues, they have added 50gb of data to my phone… https://t.co/OwdG3opVSN',?
+'@VodafoneUK Its fine im leaving voda soon after 10 year! Not a moment too soon',?
+'@VodafoneUK So you just mis sell plans? Which of your sim only plans is not on offer out of curiosity as its not ma… https://t.co/iXORyhcODG',?
+'@VodafoneUK Well thats not true is it. Your £17 8go plan was sold to me as being discountable and evidently that was a lie.',?
+'@VodafoneUK Yeah I filled it out then got an email saying I wasn’t applicable but didn’t say why.. I wouldn’t have… https://t.co/AO8FIpwHTL',?
+'RT @JCPInNorfolk: Retail Business Advisor @VodafoneUK #Norwich #NorwichJobs See: https://t.co/SjMVGY12Ha https://t.co/3rnIqoSrhh',?
+'#UnboxYourPhone Samsung Galaxy S8 Plus, from tariffs of £42 p/m @VodafoneUK via @EzMobiles https://t.co/RbUJd9J8k4 https://t.co/xaxoyU9cMO',?
+'Hey @VodafoneUK I appreciate your concern about my iPhone update, but sending 102 texts to let me is a bit much. ST… https://t.co/djDlZuw58y',?
+'@VodafoneUK Still no reply or phone to use ????',?
+'@VodafoneUK 24 month 16gb memory',?
+'@VodafoneUK No response to DMs ? 😡 I will be giving notice tomorrow and cancelling my direct debit.',?
+'@VodafoneUK If that’s the case how many people can I stop buying Vodafone products in the shop that’s a lot of money you can loose',?
+'@VodafoneUK DM sent',?
+'@VodafoneUK  1 hour and 45 mins online chat still not sorted 30mins pillar to post no one wants to talk #dontusevodafone shit service',?
+'@VodafoneUK 4 weeks and counting waiting for broadband 👏👏👏 Avoid this useless company! #vodafone #donotuse',?
+'@bethanyfell @VodafoneUK I’d hang up too but I really want to cancel my contract without another days delay',?
+'What you need to launch an #employeeadvocacy program, by @vodafoneUK &amp; @Dynamic_Signal in the next #DySiWebinar… https://t.co/AJTlLaPLbM',?
+'@jemmadm @VodafoneUK Try being on hold for 50 mins 😂🤦🏻‍♀️ they’re useless!! I’ll be contacting Ofcom too!',?
+'@VodafoneUK I have now',?
+'What you need to launch an #employeeadvocacy program, by @vodafoneUK &amp; @Dynamic_Signal in the next #DySiWebinar… https://t.co/aGG7l6I3Ny',?
+'@VodafoneUK Already annoyed after IVR for bb put me through to complaints for mobile (20mins wasted) 😡#notaclue',?
+'RT @VodafoneUK: Big 8GB data, unltd mins &amp; texts with our data-packed SIMs. The future is exciting. Ready? https://t.co/ACMMGHQ7xD',?
+'@VodafoneUK I’ve now been on hold half an hour. Live chat have just told me the canx team leave at 8, now what?',?
+'@VodafoneUK Need my phone re connected asap needed for work',?
+'@VodafoneUK A colleague @Nobby_Callaghan has experienced an underwhelming leave of customer support that has advers… https://t.co/ewpekw9Ssw',?
+'@VodafoneUK What about 03333040191 which is the number I was given in store..?',?
+'@VodafoneUK It’s just completely disconnected and now I have to start again. Someone was meant to call me back an hour ago.',?
+'@VodafoneUK Well Kirsty apparently I cant get refunded the money I can only get it credited to my account. I have… https://t.co/SqpMrsG4ZB',?
+'@VodafoneUK No I’m talking to some muppet saying I changed it never did as I left your mobile service dew to being pissed about',?
+'@VodafoneUK I will now be forwarding my complaint to Ofcom. ISsue with my phone was not my fault. I have been massi… https://t.co/j51l3LGAe1',?
+'@VodafoneUK As I stated you are doing nothing not already talked about, If it could be taken by someone else I woul… https://t.co/UWyP02lTpu',?
+'@VodafoneUK DM?',?
+'@VodafoneUK Yes I was thank you however why has it taken this long to get this and why is the repair taking so long… https://t.co/MWKlj5atGq',?
+'RT @VodafoneUK: Big 8GB data, unltd mins &amp; texts with our data-packed SIMs. The future is exciting. Ready? https://t.co/ACMMGHQ7xD',?
+'@VodafoneUK I’ve had the same billing issue for 9 months. Every bill incorrect. Every month I’m promised it’ll be sorted - it never is.',?
+'@VodafoneUK  is anyone able to help me about my repair that was sent away on the 27th september. No one knows whats going on its a joke.',?
+'@VodafoneUK I have been calm for 10 days but the  service I have received has been unacceptable considering the amo… https://t.co/PwsT3pwles',?
+'@VodafoneUK Done.',?
+'@VodafoneUK terrible customer services yet again. Was congratulating you for support to Armed Forces in the Caribbean but this ruined it.',?
+'@VodafoneUK Yes or no would suffice really, and both of those answers fit within the 140 character limit. I’m sure… https://t.co/cbD4fub2BA',?
+'@VodafoneUK Hi Al that it had all been sorted both times .... and Lordy know how many depts or hours 2sort out refu… https://t.co/7j3VzTDyRM',?
+'@VodafoneUK I have called the store at least 10 times with no answer and leaving a message each time requesting a c… https://t.co/6MqVqpbIt1',?
+'@KennyDownSouth @jsargentr @VodafoneUK Yep... However their work made easier in knowledge they won’t now have huge bills. Joe',?
+'@VodafoneUK PLEASE sort your service levels  out. A call every 2 days to tell me someone’s looking into it doesn’t DO anything. #gotoO2',?
+'@THWBcb1 @VodafoneUK I know right? Thats more than a months rent for me.',?
+'@VodafoneUK #vodafone #vodafone https://t.co/x6rUgxuCk7',?
+'@go_baguette_it @VodafoneUK Thats fucked.',?
+'@VodafoneUK I toped up with £10 and its saying  top up £20 then text BVB20 to 49501 Please help me I havent got my data or anything.',?
+'@VodafoneUK has the worst customer service ever! 😡 #vodafail',?
+'RT @VodafoneUK: Big 8GB data, unltd mins &amp; texts with our data-packed SIMs. The future is exciting. Ready? https://t.co/ACMMGHQ7xD',?
+'RT @VodafoneUK: Big 8GB data, unltd mins &amp; texts with our data-packed SIMs. The future is exciting. Ready? https://t.co/ACMMGHQ7xD',?
+'@VodafoneUK I have a top price plan @EE Max on an iPhone 7plus, looking for 8plus!',?
+'@VodafoneUK It was a dongle I didn’t want to keep it I wanted to cancel it still not sure if it had been done a lor… https://t.co/5LfGPAuKEd',?
+'@VodafoneUK Again what happened but she couldnt get it',?
+'@VodafoneUK My wifes phone stopped working. Called CS for an hour. Guy sd hed call back. Never did. I spent anoth… https://t.co/fsCTgPkCUo',?
+'@VodafoneUK Wife spent hour and half on call to India. Told number doesnt exist, even though was used yesterday. A… https://t.co/1AFwnKvmk1',?
+'@VodafoneUK hi I need help',?
+'@VodafoneUK I have emailed Neil Blagden, perhaps this list of what has happened will help you to realise that you h… https://t.co/kJUBuwfD2c',?
+'Total of three hours on the phone to @VodafoneUK today. Four different advisors, two continents, no answers. Infuriating',?
+'@VodafoneUK Still nothing. Why am I surprised?',?
+'PARTNER: @VodafoneUK enables direct interactions between citizens and govt through a range of channels. Full report… https://t.co/pzPaHe9lN8',?
+'RT @farricker24: why does your @VodafoneUK fuckin shit website never accept my password or email, and yes they are right',?
+'@VodafoneUK I am on monthly contract.i want to https://t.co/JwSAjaldhT do i register.i already have a pin number',?
+'@VodafoneUK 4 on chat, 4 on the phone and 2  in the shop over 10hrs, all but one in the shop lied. Number now in it… https://t.co/UnN1JcGSAT',?
+'@VodafoneUK @vodafoneUK I know  but it is inappropriate of you to up a old man’s payment by over 100% on a product… https://t.co/CGt9fiof7E',?
+'@VodafoneUK Well obviously. I’ve had no service all day and I’ve taken my SIM card out etc.',?
+'@VodafoneUK @vodafone #greed #targets #dutyofcare #responsibility',?
+'@VodafoneUK No used https://t.co/JwR2cjaVNz it didnt indicate it was a bundle I was purchasing?',?
+'@VodafoneUK I paid a month in advance in Nov 2016, and 12 months later, paying a further month in advance, so Im n… https://t.co/THQEKGfSgz',?
+'@VodafoneUK I upgraded to a new 12month Sim Only contract. It is £2 a month cheaper. When I upgraded I was told It… https://t.co/pOJAGYKLMA',?
+'@VodafoneUK You can’t block unknown numbers that show up like this-I need these types of numbers permanently banned https://t.co/mCA5TAu0d8',?
+'@VodafoneUK I didnt subscribe for these texts and I have no idea how theyve got my information',?
+'@VodafoneUK Told a customer service rep at Vodafone this and they told me they couldnt block the number, or refund… https://t.co/LmFKCXd6ml',?
+'@VodafoneUK in car service is the shittest service Ive sent 20 emails only get automatic response try ringing on hold for 20 mins #useless',?
+'@Apple do you currently have stock issues with @VodafoneUK? They say you haven’t got any for the customers who have… https://t.co/wOR7KtNQ4D',?
+'Vile @VodafoneUK @VodafoneIN have switched off my phones. They, lie, switch off service and say theyve tried to ge… https://t.co/PhTpnyKT4I',?
+'@VodafoneUK  https://t.co/5gki05zWif',?
+'In 18 months, @vodafoneUKs EA program earned over 30M impressions. Learn how in @Dynamic_Signals next… https://t.co/87M60u7AWh',?
+'@VodafoneUK Broadband',?
+'In 18 months, @vodafoneUKs EA program earned over 30M impressions. Learn how in @Dynamic_Signals next… https://t.co/ojaRNqY8kq',?
+'@VodafoneUK Hi, I’ve not been able to login to the Vodafone online app for over three weeks. Is there an issue, and will it be solved soon?',?
+'@VodafoneUK will someone please reply to my dms!!!!',?
+'@VodafoneUK my phone is dying, I am 20 days from my upgrade date, any chance of doing it now. Loyal customer of 5+… https://t.co/eCV17JkbIt',?
+'@andyhogg19 @VodafoneUK Been there!!',?
+'In 18 months, @vodafoneUKs EA program earned over 30M impressions. Learn how in @Dynamic_Signals next… https://t.co/7s9hEtwkin',?
+'@VodafoneUK have fast 4g in 131 places, except it seems in South West London. #sortitout',?
+'Cant do business without your phone? Stay in contact with Business Extra from @VodafoneUK https://t.co/Rhva0mVWHg',?
+'@VodafoneUK just received a text. Thanking me for an order I have not placed and delivering to a post code that is not mine',?
+'@VodafoneUK Im counting down the days until I can cancel my contract',?
+'@VodafoneUK Ive had consistently bad customer service over the last three months, staff rudeness incorrect info an… https://t.co/s1rvZnFN7z',?
+'Retail Advisor, @VodafoneUK #Wiltshire. Info/apply: https://t.co/IoSSFuFSXP #Marlborough https://t.co/rh6Rkk9nWn',?
+'RT @ceharrison5: Still waiting for my refund @VodafoneUK after 5 weeks, 4 phone calls &amp; an official complaint. Disgusting!!!',?
+'@VodafoneUK Still have same issue as I did last week. MyVodafone section of your website has been showing the same… https://t.co/u6MdcAOylf',?
+'@VodafoneUK and get this message Were working hard to fix the issue, so please try again later. since yesterday 2/2',?
+'#UnboxYourPhone Samsung Galaxy S8 Plus, from tariffs of £42 p/m @VodafoneUK via @EzMobiles https://t.co/RbUJd9J8k4 https://t.co/DlhmmJfI7N',?
+'Another showing with how  incompetent @VodafoneUK customer service really are.',?
+'UK Top Shazamed Ads: @asda climbs to top spot while @VodafoneUK, Schwarzkopf and #AppleWatch enter the chart.… https://t.co/Hd5NU3TKrw',?
+'#shailender @VodafoneIN @VodafoneUK upheld Vodafones lies and refuses to apply promised credit #nointegrity no inte… https://t.co/r5VSnNo2Rd',?
+'@VodafoneUK Ive tried no one answers or gets in touch, I want a complaint in now Ive seriously lost my patience.',?
+'@VodafoneUK You mean the number thats had me on hold for 10 mins now that Im still currently trying to talk to on… https://t.co/lWWzIG40Gg',?
+'RT @ntitawards: @Mainoneservice @VodafoneUK @Vodacom111 @Rackcenter @CWGAfrica @CWGChoices @naijatechguide @IBMcloud @BudgITng Who deserves…',?
+'Hi @VodafoneUK ideally you shouldnt hang up on a customer without telling them thats what youre doing..',?
+'RT @VodafoneUK: Big 8GB data, unltd mins &amp; texts with our data-packed SIMs. The future is exciting. Ready? https://t.co/ACMMGHQ7xD',?
+'RT @ganais_anais: @YardleyShooting You still chasing @VodafoneUK ? I sympathise. Ombudsman toothless Govt service. As per. #Vodaphone shoul…',?
+'Just when I was considering to stay with @VodafoneUK afterall, I get a call from the rudest assistant. Thanks for making my mind up for me.',?
+'@VodafoneUK and now I’m having to drive 50 miles round trip tonight to my nearest store that’s open after 6pm to ge… https://t.co/q32cxavp0d',?
+'@VodafoneUK @stephybaby2k Im having the same problems',?
+'@Mainoneservice @VodafoneUK @Vodacom111 @Rackcenter @CWGAfrica @CWGChoices @naijatechguide @IBMcloud @BudgITng Who… https://t.co/2Qo9fzX6De',?
+'@VodafoneUK I have spoken to your team on the phone not live chat. Im still waiting for someone to come back to me with a update',?
+'@VodafoneUK Im always up to date with my phone bill, im actually in front with it but every week i get a message sa… https://t.co/lm5NcC2pAD',?
+'@VodafoneIN still keep lying,now switched off phone service,broken every promise  #badcustomerservice @telecoms… https://t.co/CMrvornl1H',?
+'@VodafoneUK i have upgraded my phone but lost my services messages with my spotify code on it.. how do I retrieve them??',?
+'@VodafoneUK I have been complaining about the mistakes made on my account.  From day 1 i have been lied to by agent… https://t.co/o6mOOp4gwV',?
+'@LlanberisMRT @SamWarrenger @HywelPlaidCymru @PlaidArfon @VodafoneUK @siangwenfelin @dailypostwales Why are you not… https://t.co/TIweGcWroT',?
+'@VodafoneUK @VodafoneUKhelp I ordered a new contract direct with Vodafone online and then found the same plan with… https://t.co/qWV9qTbJUX',?
+'RT @becka_l_1: @notright78 @VodafoneUK Biggest regret ever moving broadband to @vodafoneUK. Poor service with no communication',?
+'@Ahdol @VodafoneUK 😂😂😂😂😂😂😂',?
+'@VodafoneUK Is there live chat support for unlocking phones? Both email responses I have had miss the point entirely...',?
+'@notright78 @VodafoneUK Biggest regret ever moving broadband to @vodafoneUK. Poor service with no communication',?
+'@VodafoneUK if I order from a secondary site, will I still get the teacher discount?',?
+'An interesting interview with Nick Jeffery, VF UK CEO. Check it out! #vodafone #thefutureisexciting @VodafoneUK https://t.co/24twjVnv2Q',?
+'RT @notright78: Such poor service from @VodafoneUK broadband not activated on the date and no new date set wait another 48-72 hours shockin…',?
+'@VodafoneUK Cheers',?
+'When at @EE text to say you have the best service in Nottingham when it is really bad... How bad are you guys!? @O2 @VodafoneUK',?
+'@VodafoneUK I have, and have still been charged since, at the moment I’m more concerned that this clearly illegal s… https://t.co/iwdDNPl7mb',?
+'@VodafoneUK ..so really i dont have much choice but to leave as I dont want to be tied to another lengthy contract.',?
+'@05stacey82 @GazMarsden @dcfcfans @VodafoneUK Same for me. Frustrating seeing fans around me with signal!',?
+'@watenaccio @VodafoneUK Vodafone - the worst mobile provider to hit the uk ever.',?
+'@VodafoneUK how can I block unknown numbers from calling me? I’ve had nearly 100 calls in 3 days at all hours of the day😡',?
+'@VodafoneUK I suggest you train staff to deal with issues effectively because the next step is I cancel payments and do away with sim',?
+'#UnboxYourPhone Samsung Galaxy S8 Plus, from tariffs of £42 p/m @VodafoneUK via @EzMobiles https://t.co/RbUJd9J8k4 https://t.co/0yTaM65ngU',?
+'@StopFundingHate @Plusnet @bt_uk @TalkTalk @TUIGroup @virginmedia @VodafoneUK @Debenhams @SkyUK @SmartEnergyGB Alre… https://t.co/9W0uyB7jX7',?
+'@AIRTEL_KE a PIN code is required to Install Internet Settings in my @VodafoneUK Phone.',?
+'@VodafoneUK I cant connect to any stations between South Wimbledon and Tooting Bec',?
+'Yet another draining experience with @VodafoneUK. I thought their customer service had improved... apparently not.',?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
